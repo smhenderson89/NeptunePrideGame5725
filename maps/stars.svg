@@ -1,0 +1,1044 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3000" height="3000" viewBox="0 0 3000 3000">
+<rect width="100%" height="100%" fill="white"/>
+<defs><filter id="nebula-blur" x="0" y="0" width="100%" height="100%"><feGaussianBlur stdDeviation="6"/></filter>
+<filter id="gamma" color-interpolation-filters="sRGB"><feComponentTransfer><feFuncR type="gamma" amplitude="1" exponent="2.5" offset="0"/><feFuncG type="gamma" amplitude="1" exponent="2.5" offset="0"/><feFuncB type="gamma" amplitude="1" exponent="2.5" offset="0"/></feComponentTransfer></filter></defs>
+<image href="../source/clouds2.jpg" x="0" y="0" width="3000" height="3000" preserveAspectRatio="xMidYMid slice" filter="url(#gamma)"/>
+<image href="../source/clouds3.jpg" x="0" y="0" width="3000" height="3000" preserveAspectRatio="xMidYMid slice" opacity="0.075" filter="url(#nebula-blur)"/>
+<image href="../source/cropped/green-triangle.png" x="1936.14" y="1477.32" width="17.5" height="17.5"><title>Eta Rana (Pothos)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1140.60" y="1217.93" width="17.5" height="17.5"><title>Last Dnoces (Joeman CXL)</title></image>
+<image href="../source/cropped/blue-circle.png" x="810.65" y="648.31" width="17.5" height="17.5"><title>Dry TienKuan (TheAllCreator)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1135.62" y="1782.29" width="17.5" height="17.5"><title>DaBelle of DaBall (Achenar)</title></image>
+<image href="../source/cropped/blue-circle.png" x="498.45" y="1210.41" width="17.5" height="17.5"><title>Grand Pax (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1464.85" y="1204.95" width="17.5" height="17.5"><title>Wigak and Bob (TheAllCreator)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1786.72" y="1214.81" width="17.5" height="17.5"><title>Wet Benetnasch (Achenar)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1781.18" y="2333.16" width="17.5" height="17.5"><title>The Abyss (Abyssal Scribe)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1138.87" y="642.21" width="17.5" height="17.5"><title>Arkab (TheAllCreator)</title></image>
+<image href="../source/cropped/purple-circle.png" x="644.65" y="1471.79" width="17.5" height="17.5"><title>Theta Cor (Achenar)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1624.41" y="949.90" width="17.5" height="17.5"><title>Cold Sadalsuud (TheAllCreator)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1788.41" y="1773.99" width="17.5" height="17.5"><title>Lost Sarir (Acalc79)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2096.51" y="1210.89" width="17.5" height="17.5"><title>Red Asellus (Pothos)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1628.85" y="370.00" width="17.5" height="17.5"><title>Odd Pollux (TheAllCreator)</title></image>
+<image href="../source/cropped/purple-circle.png" x="971.84" y="2035.82" width="17.5" height="17.5"><title>Endeavor (Achenar)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1626.86" y="2038.03" width="17.5" height="17.5"><title>Delta Saiph (Acalc79)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1301.60" y="931.11" width="17.5" height="17.5"><title>Arcturus (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1785.67" y="649.80" width="17.5" height="17.5"><title>Alhena (TheAllCreator)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2260.49" y="1479.80" width="17.5" height="17.5"><title>Odd Lesath (Pothos)</title></image>
+<image href="../source/cropped/blue-circle.png" x="974.86" y="933.44" width="17.5" height="17.5"><title>Irk (TheAllCreator)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1933.58" y="2048.43" width="17.5" height="17.5"><title>0 0 (Acalc79)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1947.57" y="368.25" width="17.5" height="17.5"><title>Sigma Giedi (TheAllCreator)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1949.42" y="2610.21" width="17.5" height="17.5"><title>Salm (Acalc79)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1944.44" y="946.90" width="17.5" height="17.5"><title>Fast Ankaa (TheAllCreator)</title></image>
+<image href="../source/cropped/teal-circle.png" x="976.36" y="1474.47" width="17.5" height="17.5"><title>Hag (Joeman CXL)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1618.39" y="1488.45" width="17.5" height="17.5"><title>Algedi (TheAllCreator)</title></image>
+<image href="../source/cropped/teal-circle.png" x="817.31" y="1203.73" width="17.5" height="17.5"><title>Bright Dheneb (Joeman CXL)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1449.25" y="1770.59" width="17.5" height="17.5"><title>Unity (Acalc79)</title></image>
+<image href="../source/cropped/blue-circle.png" x="648.46" y="938.84" width="17.5" height="17.5"><title>Fort Biham (TheAllCreator)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2095.24" y="1778.22" width="17.5" height="17.5"><title>Arrakis (Pothos)</title></image>
+<image href="../source/cropped/purple-circle.png" x="326.86" y="1475.57" width="17.5" height="17.5"><title>Ire (Achenar)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1290.26" y="1480.14" width="17.5" height="17.5"><title>Odd Fawaris (Joeman CXL)</title></image>
+<image href="../source/cropped/green-triangle.png" x="1910.61" y="1472.32" width="17.5" height="17.5"><title>Alpha Baham (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="1953.17" y="1500.04" width="17.5" height="17.5"><title>Sarir (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="1884.27" y="1452.73" width="17.5" height="17.5"><title>Theta Kit (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="1993.95" y="1480.76" width="17.5" height="17.5"><title>Bright Sun (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="1924.53" y="1403.75" width="17.5" height="17.5"><title>Mega Rad (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="1863.68" y="1462.17" width="17.5" height="17.5"><title>Red Mizar (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="1895.35" y="1566.53" width="17.5" height="17.5"><title>Blue Duo (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2048.90" y="1512.23" width="17.5" height="17.5"><title>Last Yum (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="1909.14" y="1592.51" width="17.5" height="17.5"><title>Auva (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2051.03" y="1425.31" width="17.5" height="17.5"><title>Lost Tab (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2077.72" y="1453.43" width="17.5" height="17.5"><title>Diadem (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="1853.22" y="1612.80" width="17.5" height="17.5"><title>Garnet (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="1845.97" y="1605.28" width="17.5" height="17.5"><title>Pan (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2027.76" y="1641.87" width="17.5" height="17.5"><title>Young Menkar (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2132.71" y="1421.59" width="17.5" height="17.5"><title>Sigma Merga (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2043.64" y="1639.56" width="17.5" height="17.5"><title>Dry Sham (Pothos)</title></image>
+<image href="../source/cropped/orange-triangle.png" x="1950.19" y="1268.89" width="17.5" height="17.5"><title>Cold Fad (Skorne)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1804.81" y="1290.88" width="17.5" height="17.5"><title>Dull Alphard (TheAllCreator)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2177.03" y="1469.46" width="17.5" height="17.5"><title>Wet Acamar (Pothos)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1816.06" y="1691.51" width="17.5" height="17.5"><title>Vega (Acalc79)</title></image>
+<image href="../source/cropped/green-triangle.png" x="1775.93" y="1663.04" width="17.5" height="17.5"><title>Dark Hadar (Pothos)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1885.22" y="1757.12" width="17.5" height="17.5"><title>Urn (Acalc79)</title></image>
+<image href="../source/cropped/green-triangle.png" x="1915.08" y="1770.80" width="17.5" height="17.5"><title>Zeta Aldebaran (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2129.25" y="1260.29" width="17.5" height="17.5"><title>Lost Dabih (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2215.22" y="1338.29" width="17.5" height="17.5"><title>Red Ick (Pothos)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1698.06" y="1257.67" width="17.5" height="17.5"><title>Red Murzim (Achenar)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1949.03" y="1823.24" width="17.5" height="17.5"><title>Git (Acalc79)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2205.07" y="1694.87" width="17.5" height="17.5"><title>Old Alrakis (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2222.64" y="1206.62" width="17.5" height="17.5"><title>Port Mirfak (Pothos)</title></image>
+<image href="../source/cropped/red-triangle.png" x="2159.72" y="1807.14" width="17.5" height="17.5"><title>Bright Mirzam (Acalc79)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1775.39" y="1123.08" width="17.5" height="17.5"><title>Delta Yed (Achenar)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1140.56" y="1239.21" width="17.5" height="17.5"><title>Jib (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1170.05" y="1189.32" width="17.5" height="17.5"><title>Alniyat (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1154.53" y="1254.78" width="17.5" height="17.5"><title>Phad (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1222.32" y="1236.75" width="17.5" height="17.5"><title>Seginus (Joeman CXL)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1072.79" y="1165.57" width="17.5" height="17.5"><title>Port Maasym (TheAllCreator)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1023.34" y="1229.03" width="17.5" height="17.5"><title>Sadachbia (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1247.59" y="1260.00" width="17.5" height="17.5"><title>Nu Gianfar (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1261.95" y="1264.05" width="17.5" height="17.5"><title>Sadalbari (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1172.11" y="1352.96" width="17.5" height="17.5"><title>Zoo (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1216.16" y="1343.03" width="17.5" height="17.5"><title>Algorab (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="983.70" y="1236.69" width="17.5" height="17.5"><title>Bam (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1244.98" y="1347.47" width="17.5" height="17.5"><title>Askella (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="938.29" y="1163.22" width="17.5" height="17.5"><title>Eta Jih (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1296.51" y="1078.58" width="17.5" height="17.5"><title>Saw (Joeman CXL)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1243.89" y="1013.10" width="17.5" height="17.5"><title>Hot Atik (TheAllCreator)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1187.58" y="1430.13" width="17.5" height="17.5"><title>Lost Gatria (Joeman CXL)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1025.71" y="1003.31" width="17.5" height="17.5"><title>White Menkalinan (TheAllCreator)</title></image>
+<image href="../source/cropped/teal-circle.png" x="923.98" y="1082.44" width="17.5" height="17.5"><title>Mothallah (Joeman CXL)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1128.76" y="944.01" width="17.5" height="17.5"><title>Decrux (TheAllCreator)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1084.28" y="1476.33" width="17.5" height="17.5"><title>Alula (Joeman CXL)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1273.98" y="969.49" width="17.5" height="17.5"><title>Xi Eltanin (Achenar)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1081.89" y="1500.35" width="17.5" height="17.5"><title>Kaus (Joeman CXL)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1262.04" y="950.19" width="17.5" height="17.5"><title>Zeta Sarir (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1449.92" y="1191.75" width="17.5" height="17.5"><title>Tania (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1263.17" y="913.00" width="17.5" height="17.5"><title>Alrai (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1210.32" y="895.94" width="17.5" height="17.5"><title>Nekkar (TheAllCreator)</title></image>
+<image href="../source/cropped/teal-circle.png" x="968.26" y="1533.31" width="17.5" height="17.5"><title>Cebalrai (Joeman CXL)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1460.50" y="1025.60" width="17.5" height="17.5"><title>zGrand Castor (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="795.32" y="1072.58" width="17.5" height="17.5"><title>Theta Sargas (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="944.21" y="862.39" width="17.5" height="17.5"><title>Gamma Phad (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="865.96" y="919.11" width="17.5" height="17.5"><title>Keid (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="844.68" y="676.66" width="17.5" height="17.5"><title>Grand Phact (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="804.35" y="615.54" width="17.5" height="17.5"><title>Sigma Achernar (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="778.99" y="594.07" width="17.5" height="17.5"><title>Hard Aludra (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="752.30" y="614.97" width="17.5" height="17.5"><title>Nova Spica (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="857.35" y="670.56" width="17.5" height="17.5"><title>Cold Cheleb (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="819.44" y="719.42" width="17.5" height="17.5"><title>Muliphein (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="756.12" y="719.92" width="17.5" height="17.5"><title>Theta Alfirk (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="816.99" y="760.60" width="17.5" height="17.5"><title>Young Elm (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="752.99" y="743.91" width="17.5" height="17.5"><title>Tejat (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="726.46" y="761.27" width="17.5" height="17.5"><title>Fast Rigil (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="857.72" y="520.45" width="17.5" height="17.5"><title>Beta Ill (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="921.70" y="540.30" width="17.5" height="17.5"><title>Wet AlKurud (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="975.08" y="666.97" width="17.5" height="17.5"><title>Black AlKap (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="678.87" y="779.49" width="17.5" height="17.5"><title>Pure Tarazet (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="762.13" y="838.18" width="17.5" height="17.5"><title>Fast Elm (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="734.53" y="831.47" width="17.5" height="17.5"><title>Xi Foe (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1002.40" y="564.42" width="17.5" height="17.5"><title>Delta Mesarthim (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="604.05" y="704.09" width="17.5" height="17.5"><title>Alpha Zosma (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="785.29" y="399.54" width="17.5" height="17.5"><title>Mega Alnitak (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="580.14" y="595.76" width="17.5" height="17.5"><title>Alpha Saw (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1024.83" y="515.78" width="17.5" height="17.5"><title>Lush Furud (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="543.32" y="730.21" width="17.5" height="17.5"><title>Mu Alkurah (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="953.48" y="882.75" width="17.5" height="17.5"><title>Blue Grafias (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1074.76" y="788.67" width="17.5" height="17.5"><title>Old Haldus (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="567.11" y="459.56" width="17.5" height="17.5"><title>Kraz (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="652.88" y="907.46" width="17.5" height="17.5"><title>Red Lesath (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1135.59" y="665.76" width="17.5" height="17.5"><title>Tack (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1134.13" y="782.75" width="17.5" height="17.5"><title>Delta Fin (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1102.08" y="421.58" width="17.5" height="17.5"><title>Suhail (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="540.97" y="889.83" width="17.5" height="17.5"><title>Dry Yed (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1193.36" y="623.83" width="17.5" height="17.5"><title>Nova Giennah (TheAllCreator)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1128.88" y="1807.41" width="17.5" height="17.5"><title>Tellar Prime (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1144.59" y="1747.43" width="17.5" height="17.5"><title>Betazed (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1126.80" y="1731.44" width="17.5" height="17.5"><title>Andoria (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1184.22" y="1796.73" width="17.5" height="17.5"><title>Vulcan (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1144.36" y="1685.68" width="17.5" height="17.5"><title>Obsidian (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1181.84" y="1834.20" width="17.5" height="17.5"><title>The Road (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1053.71" y="1823.56" width="17.5" height="17.5"><title>Junction (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1058.32" y="1702.36" width="17.5" height="17.5"><title>Wessix (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1180.64" y="1875.87" width="17.5" height="17.5"><title>Axiom (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1190.21" y="1913.84" width="17.5" height="17.5"><title>Tear (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1156.71" y="1915.43" width="17.5" height="17.5"><title>Rhudian (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="997.11" y="1823.07" width="17.5" height="17.5"><title>Typhoon (Achenar)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1278.81" y="1667.14" width="17.5" height="17.5"><title>Asp (Joeman CXL)</title></image>
+<image href="../source/cropped/purple-circle.png" x="979.08" y="1714.84" width="17.5" height="17.5"><title>Tar Valon (Achenar)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1091.78" y="1583.21" width="17.5" height="17.5"><title>New Mahasim (Joeman CXL)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1196.40" y="1973.18" width="17.5" height="17.5"><title>zBoomgate (Achenar)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1328.09" y="1905.97" width="17.5" height="17.5"><title>zBrrlinghoff (Acalc79)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1027.86" y="1568.70" width="17.5" height="17.5"><title>Schedir (Joeman CXL)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1372.02" y="1716.49" width="17.5" height="17.5"><title>Odd AlNair (Acalc79)</title></image>
+<image href="../source/cropped/purple-circle.png" x="928.48" y="1892.41" width="17.5" height="17.5"><title>Far Madding (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1055.81" y="2025.33" width="17.5" height="17.5"><title>Tremerlor (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1111.18" y="2046.87" width="17.5" height="17.5"><title>Enterprise (Achenar)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1263.90" y="1527.41" width="17.5" height="17.5"><title>Acrab (Joeman CXL)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1115.83" y="2079.82" width="17.5" height="17.5"><title>The Lighthouse (Achenar)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1306.02" y="1504.24" width="17.5" height="17.5"><title>Grand Algenib (Joeman CXL)</title></image>
+<image href="../source/cropped/purple-circle.png" x="848.01" y="1852.07" width="17.5" height="17.5"><title>Pizza (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="848.67" y="1648.67" width="17.5" height="17.5"><title>Saidar (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="820.47" y="1904.45" width="17.5" height="17.5"><title>Taco (Achenar)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1139.85" y="1418.28" width="17.5" height="17.5"><title>Mu Becrux (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1010.49" y="1425.82" width="17.5" height="17.5"><title>Gomeisa (Joeman CXL)</title></image>
+<image href="../source/cropped/purple-circle.png" x="806.76" y="1985.55" width="17.5" height="17.5"><title>Buddietopia (Achenar)</title></image>
+<image href="../source/cropped/blue-circle.png" x="468.08" y="1219.84" width="17.5" height="17.5"><title>Minkar (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="511.51" y="1242.72" width="17.5" height="17.5"><title>Acubens (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="463.52" y="1246.51" width="17.5" height="17.5"><title>Talitha (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="468.64" y="1157.13" width="17.5" height="17.5"><title>Beta Mi (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="489.39" y="1284.98" width="17.5" height="17.5"><title>Sadalsuud (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="507.29" y="1125.49" width="17.5" height="17.5"><title>Thabit (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="416.44" y="1258.49" width="17.5" height="17.5"><title>New Goo (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="413.46" y="1152.44" width="17.5" height="17.5"><title>Wild Sadachbia (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="376.33" y="1127.54" width="17.5" height="17.5"><title>Nova Skore (TheAllCreator)</title></image>
+<image href="../source/cropped/purple-circle.png" x="359.77" y="1272.55" width="17.5" height="17.5"><title>Bright Ascella (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="415.00" y="1313.34" width="17.5" height="17.5"><title>Cold Antares (Achenar)</title></image>
+<image href="../source/cropped/blue-circle.png" x="648.61" y="1190.54" width="17.5" height="17.5"><title>Soft Diadem (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="388.54" y="1066.65" width="17.5" height="17.5"><title>AlGiedi (TheAllCreator)</title></image>
+<image href="../source/cropped/purple-circle.png" x="540.63" y="1362.37" width="17.5" height="17.5"><title>Lush Celaeno (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="310.30" y="1242.32" width="17.5" height="17.5"><title>Haldus (Achenar)</title></image>
+<image href="../source/cropped/blue-circle.png" x="565.05" y="1029.56" width="17.5" height="17.5"><title>Delta Menkent (TheAllCreator)</title></image>
+<image href="../source/cropped/purple-circle.png" x="325.51" y="1364.47" width="17.5" height="17.5"><title>Kappa Quo (Achenar)</title></image>
+<image href="../source/cropped/teal-circle.png" x="678.88" y="1349.56" width="17.5" height="17.5"><title>Porrima (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="733.16" y="1164.68" width="17.5" height="17.5"><title>Grand Askella (Joeman CXL)</title></image>
+<image href="../source/cropped/blue-circle.png" x="632.25" y="997.13" width="17.5" height="17.5"><title>Ancha (TheAllCreator)</title></image>
+<image href="../source/cropped/teal-circle.png" x="725.86" y="1284.28" width="17.5" height="17.5"><title>Mega Rub (Joeman CXL)</title></image>
+<image href="../source/cropped/purple-circle.png" x="300.06" y="1399.00" width="17.5" height="17.5"><title>Bright Sualocin (Achenar)</title></image>
+<image href="../source/cropped/teal-circle.png" x="776.60" y="1206.30" width="17.5" height="17.5"><title>Blue Pug (Joeman CXL)</title></image>
+<image href="../source/cropped/purple-circle.png" x="195.60" y="1287.10" width="17.5" height="17.5"><title>Alnitak (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="617.05" y="1477.63" width="17.5" height="17.5"><title>Grafias (Achenar)</title></image>
+<image href="../source/cropped/blue-circle.png" x="686.88" y="949.13" width="17.5" height="17.5"><title>Sceptrum (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="427.59" y="893.81" width="17.5" height="17.5"><title>Black Sadira (TheAllCreator)</title></image>
+<image href="../source/cropped/purple-circle.png" x="214.59" y="1026.12" width="17.5" height="17.5"><title>Lush Sulafat (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="507.24" y="1561.92" width="17.5" height="17.5"><title>Ashlesha (Achenar)</title></image>
+<image href="../source/cropped/teal-circle.png" x="832.50" y="1347.25" width="17.5" height="17.5"><title>Matar (Joeman CXL)</title></image>
+<image href="../source/cropped/blue-circle.png" x="518.99" y="838.40" width="17.5" height="17.5"><title>Kaf (TheAllCreator)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1480.43" y="1184.58" width="17.5" height="17.5"><title>Alpha Jaw (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1467.49" y="1157.87" width="17.5" height="17.5"><title>Xi Nog (Achenar)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1397.87" y="1246.54" width="17.5" height="17.5"><title>Albireo (Joeman CXL)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1475.97" y="1296.78" width="17.5" height="17.5"><title>Ant (TheAllCreator)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1450.45" y="1135.73" width="17.5" height="17.5"><title>Girtab (Achenar)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1515.33" y="1285.84" width="17.5" height="17.5"><title>Alkaid (TheAllCreator)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1356.74" y="1246.75" width="17.5" height="17.5"><title>Odd Nog (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1341.49" y="1155.05" width="17.5" height="17.5"><title>Dull Fawaris (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1331.70" y="1202.72" width="17.5" height="17.5"><title>Marfik (Joeman CXL)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1467.63" y="1342.82" width="17.5" height="17.5"><title>Hard Syrma (TheAllCreator)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1572.14" y="1320.98" width="17.5" height="17.5"><title>Port Skore (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1622.62" y="1219.82" width="17.5" height="17.5"><title>Tau Alphecca (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1650.55" y="1192.04" width="17.5" height="17.5"><title>Young Cebalrai (Achenar)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1377.62" y="1361.99" width="17.5" height="17.5"><title>Kappa Markab (Joeman CXL)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1547.10" y="1031.76" width="17.5" height="17.5"><title>Free Altais (TheAllCreator)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1266.56" y="1299.62" width="17.5" height="17.5"><title>Alchiba (Joeman CXL)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1644.22" y="1109.63" width="17.5" height="17.5"><title>Alshat (TheAllCreator)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1519.74" y="1450.71" width="17.5" height="17.5"><title>Sualocin (Acalc79)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1346.10" y="1429.29" width="17.5" height="17.5"><title>Zeta Peacock (Joeman CXL)</title></image>
+<image href="../source/cropped/orange-triangle.png" x="1627.69" y="1419.83" width="17.5" height="17.5"><title>Alathfar (Skorne)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1410.87" y="1479.64" width="17.5" height="17.5"><title>Nusakan (Joeman CXL)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1269.61" y="993.13" width="17.5" height="17.5"><title>Bright Alderamin (Achenar)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1214.77" y="1364.85" width="17.5" height="17.5"><title>Cold Sabik (Joeman CXL)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1727.31" y="1370.89" width="17.5" height="17.5"><title>Mintaka (Achenar)</title></image>
+<image href="../source/cropped/green-triangle.png" x="1520.95" y="1524.68" width="17.5" height="17.5"><title>Fin (Pothos)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1129.37" y="1161.01" width="17.5" height="17.5"><title>Odd Elnath (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1401.03" y="1565.31" width="17.5" height="17.5"><title>Pi Etamin (Joeman CXL)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1791.14" y="1066.30" width="17.5" height="17.5"><title>Mu Enif (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1706.58" y="936.34" width="17.5" height="17.5"><title>Ksora (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1396.00" y="837.09" width="17.5" height="17.5"><title>Dry Altair (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1137.15" y="986.95" width="17.5" height="17.5"><title>Zeta Kraz (TheAllCreator)</title></image>
+<image href="../source/cropped/orange-triangle.png" x="1812.05" y="1246.77" width="17.5" height="17.5"><title>Proxima (Skorne)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1782.34" y="1182.16" width="17.5" height="17.5"><title>Wild Chara (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1790.57" y="1165.87" width="17.5" height="17.5"><title>Dull Git (Achenar)</title></image>
+<image href="../source/cropped/orange-triangle.png" x="1844.64" y="1230.98" width="17.5" height="17.5"><title>Sigma Alnasl (Skorne)</title></image>
+<image href="../source/cropped/orange-triangle.png" x="1867.65" y="1267.56" width="17.5" height="17.5"><title>Bright Samakah (Skorne)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1722.56" y="1319.76" width="17.5" height="17.5"><title>Xi Alamak (Achenar)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1645.88" y="1213.05" width="17.5" height="17.5"><title>Alpha (TheAllCreator)</title></image>
+<image href="../source/cropped/orange-triangle.png" x="1915.12" y="1155.45" width="17.5" height="17.5"><title>Wild Atlas (Skorne)</title></image>
+<image href="../source/cropped/orange-triangle.png" x="1828.45" y="1344.32" width="17.5" height="17.5"><title>Beta Aldhanab (Skorne)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1943.97" y="1177.83" width="17.5" height="17.5"><title>Lost Arrakis (TheAllCreator)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1710.80" y="1377.39" width="17.5" height="17.5"><title>Red Mira (Achenar)</title></image>
+<image href="../source/cropped/orange-triangle.png" x="1899.46" y="1055.35" width="17.5" height="17.5"><title>Odd Paw (Skorne)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1594.82" y="1235.15" width="17.5" height="17.5"><title>Achird (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1692.02" y="1012.07" width="17.5" height="17.5"><title>Grand Sham (Achenar)</title></image>
+<image href="../source/cropped/green-triangle.png" x="1977.27" y="1094.11" width="17.5" height="17.5"><title>Cor (Pothos)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1726.49" y="975.54" width="17.5" height="17.5"><title>Hot Procyon (Achenar)</title></image>
+<image href="../source/cropped/orange-triangle.png" x="1733.22" y="1455.38" width="17.5" height="17.5"><title>Lanx (Skorne)</title></image>
+<image href="../source/cropped/orange-triangle.png" x="1628.33" y="1396.33" width="17.5" height="17.5"><title>Last Ashlesha (Skorne)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1640.98" y="976.99" width="17.5" height="17.5"><title>Grand Ruchbah (TheAllCreator)</title></image>
+<image href="../source/cropped/teal-triangle.png" x="1977.46" y="1003.07" width="17.5" height="17.5"><title>Hassaleh (Darvhaz)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1867.95" y="914.66" width="17.5" height="17.5"><title>Odd Proxima (TheAllCreator)</title></image>
+<image href="../source/cropped/teal-triangle.png" x="1995.20" y="990.86" width="17.5" height="17.5"><title>Soft Mix (Darvhaz)</title></image>
+<image href="../source/cropped/teal-triangle.png" x="1989.82" y="972.51" width="17.5" height="17.5"><title>Raw (Darvhaz)</title></image>
+<image href="../source/cropped/teal-triangle.png" x="2110.80" y="1107.33" width="17.5" height="17.5"><title>Bright Avior (Darvhaz)</title></image>
+<image href="../source/cropped/green-triangle.png" x="1731.42" y="1556.72" width="17.5" height="17.5"><title>Aldebaran (Pothos)</title></image>
+<image href="../source/cropped/teal-triangle.png" x="2139.56" y="1134.96" width="17.5" height="17.5"><title>Rub (Darvhaz)</title></image>
+<image href="../source/cropped/teal-triangle.png" x="2161.66" y="1184.20" width="17.5" height="17.5"><title>Cold Fez (Darvhaz)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2152.42" y="1269.59" width="17.5" height="17.5"><title>Adhafera (Pothos)</title></image>
+<image href="../source/cropped/teal-triangle.png" x="2053.51" y="939.93" width="17.5" height="17.5"><title>Wild Botein (Darvhaz)</title></image>
+<image href="../source/cropped/blue-circle.png" x="2045.23" y="907.79" width="17.5" height="17.5"><title>Botein (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="2056.24" y="892.81" width="17.5" height="17.5"><title>Gamma Vega (TheAllCreator)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1748.68" y="2331.02" width="17.5" height="17.5"><title>Dark Pee (Abyssal Scribe)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1805.37" y="2311.87" width="17.5" height="17.5"><title>Dschubba (Abyssal Scribe)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1782.31" y="2284.47" width="17.5" height="17.5"><title>Atik (Abyssal Scribe)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1784.68" y="2391.74" width="17.5" height="17.5"><title>Zeta Elk (Abyssal Scribe)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1726.68" y="2290.91" width="17.5" height="17.5"><title>Cold Kraz (Abyssal Scribe)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1706.17" y="2393.18" width="17.5" height="17.5"><title>Fast Marfark (Abyssal Scribe)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1696.11" y="2372.16" width="17.5" height="17.5"><title>Baham (Abyssal Scribe)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1667.24" y="2334.07" width="17.5" height="17.5"><title>Delta Benetnasch (Abyssal Scribe)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1895.46" y="2335.56" width="17.5" height="17.5"><title>Dux (Abyssal Scribe)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1651.42" y="2349.14" width="17.5" height="17.5"><title>Mu Nekkar (Abyssal Scribe)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1641.91" y="2312.72" width="17.5" height="17.5"><title>Taygeta (Abyssal Scribe)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1918.33" y="2256.20" width="17.5" height="17.5"><title>Tarazet (Abyssal Scribe)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1618.34" y="2291.55" width="17.5" height="17.5"><title>Gamma Cebalrai (Abyssal Scribe)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1684.46" y="2197.27" width="17.5" height="17.5"><title>Azmidiske (Abyssal Scribe)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1596.52" y="2291.37" width="17.5" height="17.5"><title>Menkent (Abyssal Scribe)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1754.38" y="2157.75" width="17.5" height="17.5"><title>Blue Baten (Abyssal Scribe)</title></image>
+<image href="../source/cropped/red-triangle.png" x="2003.17" y="2359.82" width="17.5" height="17.5"><title>Soft Ale (Acalc79)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1889.78" y="2546.79" width="17.5" height="17.5"><title>Xi Auva (Abyssal Scribe)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1969.52" y="2484.80" width="17.5" height="17.5"><title>Fort Pug (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1891.42" y="2116.96" width="17.5" height="17.5"><title>Rat (Acalc79)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1530.08" y="2269.87" width="17.5" height="17.5"><title>Cold Ugh (Abyssal Scribe)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1745.32" y="2063.15" width="17.5" height="17.5"><title>Navi (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1951.15" y="2582.20" width="17.5" height="17.5"><title>Nu Azha (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1970.80" y="2101.27" width="17.5" height="17.5"><title>White Mi (Acalc79)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1536.35" y="2563.38" width="17.5" height="17.5"><title>Fast Aludra (Abyssal Scribe)</title></image>
+<image href="../source/cropped/red-triangle.png" x="2045.99" y="2159.22" width="17.5" height="17.5"><title>Menkib (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1816.78" y="2685.54" width="17.5" height="17.5"><title>Sigma Segin (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="2018.68" y="2585.35" width="17.5" height="17.5"><title>Tau Arkab (Acalc79)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1453.85" y="2173.98" width="17.5" height="17.5"><title>Naos (Abyssal Scribe)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1511.82" y="2611.05" width="17.5" height="17.5"><title>Castor (Abyssal Scribe)</title></image>
+<image href="../source/cropped/red-triangle.png" x="2126.66" y="2529.95" width="17.5" height="17.5"><title>Lost Pan (Acalc79)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1134.58" y="624.89" width="17.5" height="17.5"><title>Regor (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1109.18" y="613.01" width="17.5" height="17.5"><title>Kappa AlNair (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1108.85" y="596.95" width="17.5" height="17.5"><title>Free Etamin (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1211.10" y="700.40" width="17.5" height="17.5"><title>TseenKee (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1109.29" y="751.74" width="17.5" height="17.5"><title>Hadir (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1116.31" y="543.21" width="17.5" height="17.5"><title>Grand Electra (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1133.76" y="750.81" width="17.5" height="17.5"><title>Odd Imp (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1234.36" y="566.42" width="17.5" height="17.5"><title>Lush Muphrid (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1118.36" y="518.74" width="17.5" height="17.5"><title>Theta Yildun (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1104.43" y="814.65" width="17.5" height="17.5"><title>Baten (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1196.58" y="814.18" width="17.5" height="17.5"><title>Ruchba (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="945.03" y="582.97" width="17.5" height="17.5"><title>Dabih (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1271.26" y="779.45" width="17.5" height="17.5"><title>Albaldah (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1088.59" y="850.50" width="17.5" height="17.5"><title>Dark Mog (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1347.20" y="584.09" width="17.5" height="17.5"><title>Delta Ant (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1241.84" y="864.35" width="17.5" height="17.5"><title>Soft Alshain (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1373.85" y="599.59" width="17.5" height="17.5"><title>Odd Pleione (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1356.82" y="502.31" width="17.5" height="17.5"><title>Mega Propus (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="915.39" y="447.40" width="17.5" height="17.5"><title>Zaurak (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1034.14" y="920.06" width="17.5" height="17.5"><title>Wild Hydrus (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1003.18" y="923.87" width="17.5" height="17.5"><title>Alya (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1291.79" y="384.23" width="17.5" height="17.5"><title>Arich (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1453.64" y="537.89" width="17.5" height="17.5"><title>Delta Ri (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="788.01" y="724.47" width="17.5" height="17.5"><title>Red Dheneb (TheAllCreator)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1407.39" y="912.04" width="17.5" height="17.5"><title>Mega Tab (Achenar)</title></image>
+<image href="../source/cropped/blue-circle.png" x="897.25" y="358.42" width="17.5" height="17.5"><title>Sabik (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1548.45" y="637.57" width="17.5" height="17.5"><title>Elk (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1538.44" y="623.53" width="17.5" height="17.5"><title>Atria (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="924.74" y="988.56" width="17.5" height="17.5"><title>Wet Hag (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="920.52" y="262.43" width="17.5" height="17.5"><title>Wild Betria (TheAllCreator)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1343.59" y="1013.55" width="17.5" height="17.5"><title>Kastra (Joeman CXL)</title></image>
+<image href="../source/cropped/purple-circle.png" x="671.33" y="1474.09" width="17.5" height="17.5"><title>White Shaula (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="625.55" y="1433.55" width="17.5" height="17.5"><title>Nova Tegmen (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="618.88" y="1541.11" width="17.5" height="17.5"><title>Errai (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="695.89" y="1529.71" width="17.5" height="17.5"><title>Tau Juxta (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="617.00" y="1407.66" width="17.5" height="17.5"><title>Bright Ash (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="535.06" y="1447.63" width="17.5" height="17.5"><title>Blue Ras (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="535.87" y="1536.07" width="17.5" height="17.5"><title>Wei (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="511.12" y="1529.14" width="17.5" height="17.5"><title>Black Atria (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="516.58" y="1514.78" width="17.5" height="17.5"><title>Theemin (Achenar)</title></image>
+<image href="../source/cropped/teal-circle.png" x="706.39" y="1337.21" width="17.5" height="17.5"><title>Aladfar (Joeman CXL)</title></image>
+<image href="../source/cropped/purple-circle.png" x="540.83" y="1614.36" width="17.5" height="17.5"><title>Arneb (Achenar)</title></image>
+<image href="../source/cropped/teal-circle.png" x="840.85" y="1450.05" width="17.5" height="17.5"><title>Mizar (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="673.92" y="1285.54" width="17.5" height="17.5"><title>Zeta Spica (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="515.27" y="1344.16" width="17.5" height="17.5"><title>Mud (Joeman CXL)</title></image>
+<image href="../source/cropped/purple-circle.png" x="535.07" y="1669.18" width="17.5" height="17.5"><title>Last Decrux (Achenar)</title></image>
+<image href="../source/cropped/blue-circle.png" x="521.50" y="1281.38" width="17.5" height="17.5"><title>Polaris (TheAllCreator)</title></image>
+<image href="../source/cropped/purple-circle.png" x="403.71" y="1497.69" width="17.5" height="17.5"><title>Rana (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="698.02" y="1723.30" width="17.5" height="17.5"><title>Zu (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="834.77" y="1673.99" width="17.5" height="17.5"><title>Willow (Achenar)</title></image>
+<image href="../source/cropped/teal-circle.png" x="913.66" y="1596.46" width="17.5" height="17.5"><title>Mu Alnitak (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="848.22" y="1267.05" width="17.5" height="17.5"><title>Mega Duo (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="942.31" y="1550.60" width="17.5" height="17.5"><title>Lush Wazn (Joeman CXL)</title></image>
+<image href="../source/cropped/blue-circle.png" x="606.49" y="1159.81" width="17.5" height="17.5"><title>Fawaris (TheAllCreator)</title></image>
+<image href="../source/cropped/purple-circle.png" x="331.24" y="1455.21" width="17.5" height="17.5"><title>Wild Alrakis (Achenar)</title></image>
+<image href="../source/cropped/blue-circle.png" x="679.66" y="1126.15" width="17.5" height="17.5"><title>Old Ire (TheAllCreator)</title></image>
+<image href="../source/cropped/purple-circle.png" x="921.05" y="1746.68" width="17.5" height="17.5"><title>Void (Achenar)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1037.55" y="1433.96" width="17.5" height="17.5"><title>Grand Tor (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1031.63" y="1444.47" width="17.5" height="17.5"><title>Young Hadar (Joeman CXL)</title></image>
+<image href="../source/cropped/purple-circle.png" x="283.07" y="1346.98" width="17.5" height="17.5"><title>Gamma Alsafi (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="764.44" y="1890.17" width="17.5" height="17.5"><title>Respect (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="240.57" y="1676.13" width="17.5" height="17.5"><title>Segin (Achenar)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1622.93" y="906.96" width="17.5" height="17.5"><title>Port Nashira (TheAllCreator)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1588.97" y="905.64" width="17.5" height="17.5"><title>Tau Cursa (Achenar)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1612.12" y="985.24" width="17.5" height="17.5"><title>Hard Alpheratz (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1668.36" y="969.08" width="17.5" height="17.5"><title>Alpha Denebola (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1576.77" y="882.04" width="17.5" height="17.5"><title>Korn (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1692.15" y="884.27" width="17.5" height="17.5"><title>Port Adhafera (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1561.58" y="861.61" width="17.5" height="17.5"><title>Fort Peacock (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1734.05" y="915.19" width="17.5" height="17.5"><title>Fomalhaut (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1668.19" y="842.01" width="17.5" height="17.5"><title>Dark Kaf (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1707.68" y="859.02" width="17.5" height="17.5"><title>Dark Shaula (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1764.63" y="878.82" width="17.5" height="17.5"><title>Mega Zaniah (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1781.08" y="942.71" width="17.5" height="17.5"><title>Menchib (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1786.69" y="860.97" width="17.5" height="17.5"><title>Wet Segin (TheAllCreator)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1750.72" y="1069.18" width="17.5" height="17.5"><title>AlKap (Achenar)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1718.35" y="776.49" width="17.5" height="17.5"><title>Xi Nash (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1836.95" y="913.99" width="17.5" height="17.5"><title>Gamma Alaraph (TheAllCreator)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1409.46" y="1040.48" width="17.5" height="17.5"><title>Lost Birdun (Joeman CXL)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1747.09" y="1126.58" width="17.5" height="17.5"><title>Last Alfecca (Achenar)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1842.68" y="826.31" width="17.5" height="17.5"><title>Muscida (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1810.34" y="1128.98" width="17.5" height="17.5"><title>Dull Phact (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1706.80" y="679.52" width="17.5" height="17.5"><title>Delta Thuban (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1651.40" y="637.25" width="17.5" height="17.5"><title>Mu Rukh (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1424.97" y="705.47" width="17.5" height="17.5"><title>Blue Wazn (TheAllCreator)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1360.42" y="1094.99" width="17.5" height="17.5"><title>Lush Edasich (Joeman CXL)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1724.86" y="626.86" width="17.5" height="17.5"><title>Alkes (TheAllCreator)</title></image>
+<image href="../source/cropped/teal-triangle.png" x="1963.78" y="1022.27" width="17.5" height="17.5"><title>Fast Acrab (Darvhaz)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1300.28" y="750.82" width="17.5" height="17.5"><title>Black Sheratan (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1912.71" y="694.40" width="17.5" height="17.5"><title>Black Menchib (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1461.90" y="594.44" width="17.5" height="17.5"><title>Delta Alathfar (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1511.15" y="565.55" width="17.5" height="17.5"><title>Eta Keid (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1215.11" y="911.98" width="17.5" height="17.5"><title>Kappa Algol (TheAllCreator)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1814.13" y="1767.05" width="17.5" height="17.5"><title>Yed (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1745.23" y="1809.12" width="17.5" height="17.5"><title>Alrakis (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1752.19" y="1720.01" width="17.5" height="17.5"><title>Sigma Menkalinan (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1802.87" y="1836.29" width="17.5" height="17.5"><title>Soft Ri (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1868.03" y="1757.86" width="17.5" height="17.5"><title>Azimech (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1692.26" y="1768.75" width="17.5" height="17.5"><title>Alpha Grafias (Acalc79)</title></image>
+<image href="../source/cropped/green-triangle.png" x="1834.01" y="1700.74" width="17.5" height="17.5"><title>Bright Nihal (Pothos)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1858.49" y="1730.19" width="17.5" height="17.5"><title>Brachium (Acalc79)</title></image>
+<image href="../source/cropped/green-triangle.png" x="1828.12" y="1673.49" width="17.5" height="17.5"><title>Zeta Git (Pothos)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1735.34" y="1670.53" width="17.5" height="17.5"><title>Bright Polaris (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1655.48" y="1719.53" width="17.5" height="17.5"><title>White Lanx (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1654.45" y="1698.95" width="17.5" height="17.5"><title>Giennah (Acalc79)</title></image>
+<image href="../source/cropped/green-triangle.png" x="1947.08" y="1703.30" width="17.5" height="17.5"><title>Quo (Pothos)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1870.72" y="1931.44" width="17.5" height="17.5"><title>Samakah (Acalc79)</title></image>
+<image href="../source/cropped/orange-triangle.png" x="1673.85" y="1607.02" width="17.5" height="17.5"><title>Ruchbah (Skorne)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1625.95" y="1645.14" width="17.5" height="17.5"><title>Port Yay (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1993.34" y="1780.24" width="17.5" height="17.5"><title>Lush Talitha (Acalc79)</title></image>
+<image href="../source/cropped/orange-triangle.png" x="1678.79" y="1580.36" width="17.5" height="17.5"><title>Dry Alnilam (Skorne)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1596.14" y="1941.64" width="17.5" height="17.5"><title>Shaula (Abyssal Scribe)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1829.38" y="2014.46" width="17.5" height="17.5"><title>Wezen (Acalc79)</title></image>
+<image href="../source/cropped/green-triangle.png" x="1840.85" y="1500.74" width="17.5" height="17.5"><title>Juxta (Pothos)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1972.25" y="1973.96" width="17.5" height="17.5"><title>1 3 (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1994.11" y="1954.67" width="17.5" height="17.5"><title>2 4 (Acalc79)</title></image>
+<image href="../source/cropped/green-triangle.png" x="1854.17" y="1470.77" width="17.5" height="17.5"><title>Sigma Pherkad (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2084.32" y="1700.75" width="17.5" height="17.5"><title>Wild Fin (Pothos)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1493.91" y="1648.61" width="17.5" height="17.5"><title>Septen (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1461.23" y="1704.58" width="17.5" height="17.5"><title>Hamal (Acalc79)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1585.31" y="2039.73" width="17.5" height="17.5"><title>Sadira (Abyssal Scribe)</title></image>
+<image href="../source/cropped/red-triangle.png" x="2071.79" y="1987.01" width="17.5" height="17.5"><title>Duhr (Acalc79)</title></image>
+<image href="../source/cropped/green-triangle.png" x="1880.21" y="1429.15" width="17.5" height="17.5"><title>Procyon (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2158.60" y="1829.17" width="17.5" height="17.5"><title>Aludra (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2114.47" y="1193.36" width="17.5" height="17.5"><title>Wild Azaleh (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2113.11" y="1232.52" width="17.5" height="17.5"><title>Pure Scheat (Pothos)</title></image>
+<image href="../source/cropped/orange-triangle.png" x="2056.96" y="1232.80" width="17.5" height="17.5"><title>Neshmet (Skorne)</title></image>
+<image href="../source/cropped/teal-triangle.png" x="2108.35" y="1127.66" width="17.5" height="17.5"><title>Blue Aldib (Darvhaz)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2054.31" y="1296.92" width="17.5" height="17.5"><title>Lost Acrux (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2140.23" y="1285.93" width="17.5" height="17.5"><title>Dry Zoo (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2213.65" y="1243.85" width="17.5" height="17.5"><title>Ram (Pothos)</title></image>
+<image href="../source/cropped/teal-triangle.png" x="1978.49" y="1264.10" width="17.5" height="17.5"><title>Delta Mimosa (Darvhaz)</title></image>
+<image href="../source/cropped/teal-triangle.png" x="1980.49" y="1284.88" width="17.5" height="17.5"><title>Tau Alcor (Darvhaz)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2088.06" y="1366.28" width="17.5" height="17.5"><title>Beta Sheliak (Pothos)</title></image>
+<image href="../source/cropped/teal-triangle.png" x="2042.81" y="1053.38" width="17.5" height="17.5"><title>Nova Beid (Darvhaz)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2302.38" y="1261.52" width="17.5" height="17.5"><title>Grand Lucida (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="1967.16" y="1380.73" width="17.5" height="17.5"><title>Grand Mebsuta (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2311.12" y="1243.33" width="17.5" height="17.5"><title>Wet Menkab (Pothos)</title></image>
+<image href="../source/cropped/teal-triangle.png" x="2071.87" y="969.38" width="17.5" height="17.5"><title>Giedi (Darvhaz)</title></image>
+<image href="../source/cropped/orange-triangle.png" x="1860.88" y="1234.85" width="17.5" height="17.5"><title>Delta AlGiedi (Skorne)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2329.56" y="1051.76" width="17.5" height="17.5"><title>Yak (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="1948.11" y="1434.91" width="17.5" height="17.5"><title>Wild Furud (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2151.27" y="1487.71" width="17.5" height="17.5"><title>Nova Neshmet (Pothos)</title></image>
+<image href="../source/cropped/teal-triangle.png" x="2288.02" y="995.97" width="17.5" height="17.5"><title>Hot Fomalhaut (Darvhaz)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2315.10" y="1435.31" width="17.5" height="17.5"><title>Koi (Pothos)</title></image>
+<image href="../source/cropped/teal-triangle.png" x="2152.55" y="880.30" width="17.5" height="17.5"><title>Slow Chertan (Darvhaz)</title></image>
+<image href="../source/cropped/orange-triangle.png" x="1832.06" y="1392.92" width="17.5" height="17.5"><title>Altais (Skorne)</title></image>
+<image href="../source/cropped/green-triangle.png" x="1977.94" y="1525.84" width="17.5" height="17.5"><title>Last Wezen (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2481.85" y="1182.06" width="17.5" height="17.5"><title>Antares (Pothos)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1788.89" y="1423.14" width="17.5" height="17.5"><title>Pux (TheAllCreator)</title></image>
+<image href="../source/cropped/teal-triangle.png" x="2033.10" y="826.15" width="17.5" height="17.5"><title>Mu Samakah (Darvhaz)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2473.49" y="1311.71" width="17.5" height="17.5"><title>Pi Arneb (Pothos)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1758.29" y="986.98" width="17.5" height="17.5"><title>TienKuan (TheAllCreator)</title></image>
+<image href="../source/cropped/green-triangle.png" x="1805.29" y="1509.47" width="17.5" height="17.5"><title>Dull Alfirk (Pothos)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1692.50" y="1045.99" width="17.5" height="17.5"><title>Terebellum (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1641.72" y="354.63" width="17.5" height="17.5"><title>Nu Atik (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1654.31" y="383.97" width="17.5" height="17.5"><title>Last Kuma (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1619.36" y="434.96" width="17.5" height="17.5"><title>Xi Bunda (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1588.60" y="312.52" width="17.5" height="17.5"><title>Ri (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1650.89" y="460.81" width="17.5" height="17.5"><title>Scheat (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1538.60" y="353.82" width="17.5" height="17.5"><title>Mega Dschubba (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1646.44" y="276.79" width="17.5" height="17.5"><title>Beta Miram (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1692.19" y="329.87" width="17.5" height="17.5"><title>Wet Aldhafera (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1723.65" y="367.91" width="17.5" height="17.5"><title>Eta Megrez (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1673.93" y="478.58" width="17.5" height="17.5"><title>Gacrux (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1484.96" y="422.65" width="17.5" height="17.5"><title>Enif (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1731.72" y="487.64" width="17.5" height="17.5"><title>Lush Sirius (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1531.76" y="534.21" width="17.5" height="17.5"><title>Old Decrux (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1781.53" y="464.95" width="17.5" height="17.5"><title>Bright Kastra (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1495.40" y="246.18" width="17.5" height="17.5"><title>Wild Acrab (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1756.50" y="529.87" width="17.5" height="17.5"><title>Bright Scheddi (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1799.78" y="297.13" width="17.5" height="17.5"><title>Grand Zit (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1783.45" y="222.07" width="17.5" height="17.5"><title>Theta Minelava (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1506.73" y="592.01" width="17.5" height="17.5"><title>New Menkab (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1370.98" y="368.22" width="17.5" height="17.5"><title>Old Marfik (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1560.17" y="645.28" width="17.5" height="17.5"><title>Rukh (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1586.72" y="650.66" width="17.5" height="17.5"><title>Vindemiatrix (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1386.22" y="545.02" width="17.5" height="17.5"><title>Bright Miram (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1492.04" y="102.21" width="17.5" height="17.5"><title>Eta Dux (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1705.56" y="85.82" width="17.5" height="17.5"><title>Acamar (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1791.92" y="115.59" width="17.5" height="17.5"><title>Slow Ankaa (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1402.86" y="129.86" width="17.5" height="17.5"><title>New Enif (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1910.13" y="540.61" width="17.5" height="17.5"><title>Dark Menkib (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1909.72" y="165.47" width="17.5" height="17.5"><title>Cold Alrischa (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1826.02" y="681.83" width="17.5" height="17.5"><title>Sheliak (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1938.63" y="197.43" width="17.5" height="17.5"><title>Xi Rigel (TheAllCreator)</title></image>
+<image href="../source/cropped/purple-circle.png" x="993.78" y="2023.29" width="17.5" height="17.5"><title>Geidi Prime (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="945.44" y="2045.09" width="17.5" height="17.5"><title>Gamma Sirius (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1001.25" y="2071.73" width="17.5" height="17.5"><title>Ocampa (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="999.58" y="1990.53" width="17.5" height="17.5"><title>Kappa Theemin (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1035.30" y="2070.32" width="17.5" height="17.5"><title>Defiant (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="916.64" y="2135.37" width="17.5" height="17.5"><title>Taco Flavored Kisses (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1052.81" y="2098.61" width="17.5" height="17.5"><title>Denobula (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1005.74" y="2143.15" width="17.5" height="17.5"><title>Plasma (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="921.33" y="1928.08" width="17.5" height="17.5"><title>Saidin (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="832.95" y="2065.33" width="17.5" height="17.5"><title>Palatium (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="902.33" y="2175.34" width="17.5" height="17.5"><title>New Almach (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1072.40" y="2142.68" width="17.5" height="17.5"><title>Alcor (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="912.67" y="2206.05" width="17.5" height="17.5"><title>Corvid (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="821.59" y="2100.60" width="17.5" height="17.5"><title>Wild Bharani (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1086.47" y="1888.90" width="17.5" height="17.5"><title>Yellowstone (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="998.39" y="1847.65" width="17.5" height="17.5"><title>Chapterhouse (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="764.10" y="1999.03" width="17.5" height="17.5"><title>New Korn (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="792.92" y="2148.38" width="17.5" height="17.5"><title>Ragnar Achorage (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="898.16" y="2267.14" width="17.5" height="17.5"><title>Redemptions Road (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="875.28" y="2253.41" width="17.5" height="17.5"><title>Hard Seginus (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1130.10" y="2228.14" width="17.5" height="17.5"><title>zChoco Taco (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="701.63" y="2123.03" width="17.5" height="17.5"><title>Sigma Alshat (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="920.05" y="2305.35" width="17.5" height="17.5"><title>Old Aldhibah (Achenar)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1277.43" y="2131.97" width="17.5" height="17.5"><title>Tau Haedus (Acalc79)</title></image>
+<image href="../source/cropped/purple-circle.png" x="955.65" y="1749.98" width="17.5" height="17.5"><title>Columbia (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="995.67" y="1724.43" width="17.5" height="17.5"><title>Corrin (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="738.52" y="1830.58" width="17.5" height="17.5"><title>Lost Betria (Achenar)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1267.01" y="2201.87" width="17.5" height="17.5"><title>Mu Elk (Abyssal Scribe)</title></image>
+<image href="../source/cropped/orange-square.png" x="736.76" y="2282.90" width="17.5" height="17.5"><title>Mega Chad (Evermind)</title></image>
+<image href="../source/cropped/purple-circle.png" x="626.66" y="2092.31" width="17.5" height="17.5"><title>Tor (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1116.92" y="2397.68" width="17.5" height="17.5"><title>Hyadum (Achenar)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1630.06" y="2009.77" width="17.5" height="17.5"><title>Grand Asterope (Abyssal Scribe)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1651.90" y="2038.35" width="17.5" height="17.5"><title>Hard Jib (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1593.37" y="2000.63" width="17.5" height="17.5"><title>Last Sadalmelik (Acalc79)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1646.17" y="2093.09" width="17.5" height="17.5"><title>Subra (Abyssal Scribe)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1534.09" y="2043.11" width="17.5" height="17.5"><title>Tau Alrami (Abyssal Scribe)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1532.48" y="2106.73" width="17.5" height="17.5"><title>Cold Wow (Abyssal Scribe)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1532.84" y="2064.49" width="17.5" height="17.5"><title>Aldhafera (Abyssal Scribe)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1510.54" y="2045.54" width="17.5" height="17.5"><title>Nog (Abyssal Scribe)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1535.81" y="2142.40" width="17.5" height="17.5"><title>Free Alzir (Abyssal Scribe)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1617.15" y="1914.06" width="17.5" height="17.5"><title>Bright Ksora (Acalc79)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1548.79" y="2174.34" width="17.5" height="17.5"><title>Blue Albali (Abyssal Scribe)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1502.89" y="1913.74" width="17.5" height="17.5"><title>Dark Betelgeuse (Abyssal Scribe)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1753.21" y="2183.00" width="17.5" height="17.5"><title>Blue Megrez (Abyssal Scribe)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1451.38" y="1928.85" width="17.5" height="17.5"><title>Delta Merope (Abyssal Scribe)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1434.29" y="2182.12" width="17.5" height="17.5"><title>Red Chow (Abyssal Scribe)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1595.11" y="2259.07" width="17.5" height="17.5"><title>Gamma Giennah (Abyssal Scribe)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1452.89" y="2237.86" width="17.5" height="17.5"><title>Gamma Corvid (Abyssal Scribe)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1703.48" y="2283.65" width="17.5" height="17.5"><title>Rotanev (Abyssal Scribe)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1816.76" y="1891.74" width="17.5" height="17.5"><title>Blue Zoo (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1351.36" y="1968.36" width="17.5" height="17.5"><title>Mega Man (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1674.86" y="1772.05" width="17.5" height="17.5"><title>Kleeia (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1502.93" y="1774.92" width="17.5" height="17.5"><title>Lost Jabbah (Acalc79)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1406.59" y="2261.46" width="17.5" height="17.5"><title>Azha (Abyssal Scribe)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1487.00" y="2332.16" width="17.5" height="17.5"><title>Zuben (Abyssal Scribe)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1342.59" y="1831.42" width="17.5" height="17.5"><title>Waygate (Acalc79)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1858.20" y="2293.86" width="17.5" height="17.5"><title>Mega Kuma (Abyssal Scribe)</title></image>
+<image href="../source/cropped/red-triangle.png" x="2005.78" y="2051.98" width="17.5" height="17.5"><title>Tegmen (Acalc79)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1947.95" y="2267.56" width="17.5" height="17.5"><title>Gamma Mesarthim (Abyssal Scribe)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1603.60" y="1667.01" width="17.5" height="17.5"><title>Nova Ruchbah (Acalc79)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1548.03" y="2448.27" width="17.5" height="17.5"><title>Hydrus (Abyssal Scribe)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1236.26" y="1876.92" width="17.5" height="17.5"><title>Waystation (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1299.23" y="975.71" width="17.5" height="17.5"><title>Hard Nusakan (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1293.22" y="905.26" width="17.5" height="17.5"><title>Electra (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1350.38" y="936.67" width="17.5" height="17.5"><title>Fast Grumium (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1351.39" y="977.93" width="17.5" height="17.5"><title>Lush Algenib (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1321.96" y="895.40" width="17.5" height="17.5"><title>Hard Algieba (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1383.21" y="933.14" width="17.5" height="17.5"><title>Kuma (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1358.90" y="856.85" width="17.5" height="17.5"><title>Mega Alaraph (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1398.60" y="951.10" width="17.5" height="17.5"><title>Red Chort (Achenar)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1253.61" y="1043.96" width="17.5" height="17.5"><title>Cold Pherkard (Joeman CXL)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1440.42" y="933.92" width="17.5" height="17.5"><title>Beid (Achenar)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1278.69" y="808.13" width="17.5" height="17.5"><title>Muphrid (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1237.05" y="805.08" width="17.5" height="17.5"><title>Grand Tureis (TheAllCreator)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1403.49" y="1066.30" width="17.5" height="17.5"><title>Dark Jabbah (Joeman CXL)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1451.33" y="1041.72" width="17.5" height="17.5"><title>Azel (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1438.07" y="798.67" width="17.5" height="17.5"><title>Dark TseenKee (TheAllCreator)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1165.18" y="1120.10" width="17.5" height="17.5"><title>Beta Naos (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1250.90" y="1190.22" width="17.5" height="17.5"><title>Free Ion (Joeman CXL)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1060.82" y="960.07" width="17.5" height="17.5"><title>Becrux (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1117.87" y="783.89" width="17.5" height="17.5"><title>Old Taygeta (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1155.90" y="692.28" width="17.5" height="17.5"><title>Gamma Alniyat (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1037.61" y="1015.71" width="17.5" height="17.5"><title>Mega Alnasl (TheAllCreator)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1244.19" y="1230.28" width="17.5" height="17.5"><title>New Mekbuda (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1105.51" y="1179.08" width="17.5" height="17.5"><title>Asellus (Joeman CXL)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1548.87" y="728.56" width="17.5" height="17.5"><title>Fay (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1621.58" y="960.96" width="17.5" height="17.5"><title>Lush Navi (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1466.99" y="1228.59" width="17.5" height="17.5"><title>Zeta Sceptrum (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1425.47" y="627.69" width="17.5" height="17.5"><title>Pax (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="928.96" y="907.60" width="17.5" height="17.5"><title>Slow Foe (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1643.21" y="1071.77" width="17.5" height="17.5"><title>Red Mothallah (TheAllCreator)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1584.40" y="1189.51" width="17.5" height="17.5"><title>Nu Urn (Achenar)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1584.37" y="667.14" width="17.5" height="17.5"><title>Nihal (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1790.51" y="619.23" width="17.5" height="17.5"><title>Kappa Keg (TheAllCreator)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1748.70" y="677.06" width="17.5" height="17.5"><title>Blue Maia (Achenar)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1718.92" y="662.90" width="17.5" height="17.5"><title>Thuban (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1785.04" y="700.69" width="17.5" height="17.5"><title>Port Fay (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1863.05" y="661.87" width="17.5" height="17.5"><title>Unuk (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1691.68" y="599.53" width="17.5" height="17.5"><title>Dheneb (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1783.56" y="536.44" width="17.5" height="17.5"><title>Gor (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1693.90" y="733.68" width="17.5" height="17.5"><title>Yildun (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1735.14" y="750.10" width="17.5" height="17.5"><title>Kappa Yildun (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1678.56" y="735.28" width="17.5" height="17.5"><title>Alderamin (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1653.98" y="565.51" width="17.5" height="17.5"><title>Alamak (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1784.96" y="812.67" width="17.5" height="17.5"><title>Gamma Tic (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1656.10" y="529.52" width="17.5" height="17.5"><title>Denebola (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1650.93" y="777.59" width="17.5" height="17.5"><title>Beta Menkent (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1591.12" y="727.32" width="17.5" height="17.5"><title>Pure Kullat (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1639.93" y="808.36" width="17.5" height="17.5"><title>Old Gomeisa (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1910.62" y="842.13" width="17.5" height="17.5"><title>Dark Cor (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1941.29" y="452.03" width="17.5" height="17.5"><title>Neo (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1586.38" y="459.12" width="17.5" height="17.5"><title>Zaniah (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1764.68" y="379.08" width="17.5" height="17.5"><title>Red AlGiedi (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1507.75" y="692.55" width="17.5" height="17.5"><title>Old Sky (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1562.35" y="835.32" width="17.5" height="17.5"><title>Red Menkar (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="2055.43" y="535.90" width="17.5" height="17.5"><title>Rukbat (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="2071.34" y="667.32" width="17.5" height="17.5"><title>Xi Tack (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1549.82" y="435.01" width="17.5" height="17.5"><title>Port Rad (TheAllCreator)</title></image>
+<image href="../source/cropped/teal-triangle.png" x="2077.48" y="787.38" width="17.5" height="17.5"><title>Soft Aldhibah (Darvhaz)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1975.34" y="378.92" width="17.5" height="17.5"><title>Wet Elnath (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1453.46" y="833.76" width="17.5" height="17.5"><title>Zeta Ick (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1719.94" y="1019.37" width="17.5" height="17.5"><title>Delta Gienah (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1522.54" y="369.20" width="17.5" height="17.5"><title>Wasat (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1401.49" y="772.51" width="17.5" height="17.5"><title>Odd Garnet (TheAllCreator)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2262.86" y="1448.80" width="17.5" height="17.5"><title>Lucida (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2242.55" y="1510.56" width="17.5" height="17.5"><title>Dry Raw (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2267.49" y="1530.14" width="17.5" height="17.5"><title>Soft Alcor (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2240.95" y="1431.34" width="17.5" height="17.5"><title>New Azaleh (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2259.96" y="1399.15" width="17.5" height="17.5"><title>Sarin (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2217.85" y="1530.44" width="17.5" height="17.5"><title>Mu Kajam (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2176.06" y="1536.01" width="17.5" height="17.5"><title>Nu Nashira (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2318.63" y="1551.37" width="17.5" height="17.5"><title>Last Zaniah (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2192.87" y="1566.48" width="17.5" height="17.5"><title>Wow (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2233.46" y="1609.84" width="17.5" height="17.5"><title>White Misam (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2325.82" y="1318.35" width="17.5" height="17.5"><title>Slow Aladfar (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2347.99" y="1315.70" width="17.5" height="17.5"><title>Zosma (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2220.43" y="1659.35" width="17.5" height="17.5"><title>Alnilam (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2347.94" y="1671.08" width="17.5" height="17.5"><title>Marfark (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2157.94" y="1689.47" width="17.5" height="17.5"><title>Tic (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2088.13" y="1345.17" width="17.5" height="17.5"><title>Azaleh (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2338.66" y="1232.80" width="17.5" height="17.5"><title>Dark Gut (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2511.72" y="1392.18" width="17.5" height="17.5"><title>Free Gomeisa (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2464.05" y="1260.94" width="17.5" height="17.5"><title>Mog (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2019.55" y="1311.86" width="17.5" height="17.5"><title>Alpha Alkes (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="1961.47" y="1504.04" width="17.5" height="17.5"><title>Tau Alathfar (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2553.20" y="1429.39" width="17.5" height="17.5"><title>Wild Asp (Pothos)</title></image>
+<image href="../source/cropped/red-triangle.png" x="2267.16" y="1808.45" width="17.5" height="17.5"><title>Lost Alrischa (Acalc79)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2293.08" y="1825.51" width="17.5" height="17.5"><title>Grand Sheliak (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2453.75" y="1173.94" width="17.5" height="17.5"><title>Gut (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2423.89" y="1805.95" width="17.5" height="17.5"><title>Hydrobius (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2593.88" y="1286.45" width="17.5" height="17.5"><title>Mebsuta (Pothos)</title></image>
+<image href="../source/cropped/orange-triangle.png" x="2047.10" y="1154.34" width="17.5" height="17.5"><title>Odd Wasat (Skorne)</title></image>
+<image href="../source/cropped/orange-triangle.png" x="1968.47" y="1219.21" width="17.5" height="17.5"><title>Pure Diphda (Skorne)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2349.89" y="1072.38" width="17.5" height="17.5"><title>Heze (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="1898.78" y="1663.02" width="17.5" height="17.5"><title>Wet Thabit (Pothos)</title></image>
+<image href="../source/cropped/blue-circle.png" x="996.07" y="950.48" width="17.5" height="17.5"><title>Mega Birdun (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="946.21" y="939.72" width="17.5" height="17.5"><title>Slow Urn (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="929.91" y="933.57" width="17.5" height="17.5"><title>Tabit (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="973.03" y="1028.00" width="17.5" height="17.5"><title>Slow Minchir (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="911.67" y="858.87" width="17.5" height="17.5"><title>Heka (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="901.51" y="1017.10" width="17.5" height="17.5"><title>Alrami (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1062.66" y="1048.35" width="17.5" height="17.5"><title>Rastaban (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="867.05" y="867.23" width="17.5" height="17.5"><title>Soft Aldebaran (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1105.35" y="921.36" width="17.5" height="17.5"><title>Dubhe (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="872.89" y="826.39" width="17.5" height="17.5"><title>Tureis (TheAllCreator)</title></image>
+<image href="../source/cropped/teal-circle.png" x="886.40" y="1095.96" width="17.5" height="17.5"><title>Mega Albaldah (Joeman CXL)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1003.68" y="747.06" width="17.5" height="17.5"><title>Algol (TheAllCreator)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1010.00" y="1135.65" width="17.5" height="17.5"><title>Fast Heka (Joeman CXL)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1171.98" y="1021.83" width="17.5" height="17.5"><title>Jaw (TheAllCreator)</title></image>
+<image href="../source/cropped/teal-circle.png" x="861.80" y="1125.85" width="17.5" height="17.5"><title>Ankaa (Joeman CXL)</title></image>
+<image href="../source/cropped/blue-circle.png" x="740.77" y="878.69" width="17.5" height="17.5"><title>Etamin (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="922.08" y="702.58" width="17.5" height="17.5"><title>Alpha Yay (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1046.96" y="701.12" width="17.5" height="17.5"><title>Izar (TheAllCreator)</title></image>
+<image href="../source/cropped/teal-circle.png" x="944.04" y="1218.68" width="17.5" height="17.5"><title>Alkalurops (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1172.41" y="1150.04" width="17.5" height="17.5"><title>Bright Suhail (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1198.58" y="1166.47" width="17.5" height="17.5"><title>Miram (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1107.45" y="1240.55" width="17.5" height="17.5"><title>Gamma Ras (Joeman CXL)</title></image>
+<image href="../source/cropped/blue-circle.png" x="860.17" y="613.03" width="17.5" height="17.5"><title>Dark Sadira (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="697.09" y="728.36" width="17.5" height="17.5"><title>Hot Mirfak (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="965.12" y="568.49" width="17.5" height="17.5"><title>Zeta Sadr (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1074.04" y="574.06" width="17.5" height="17.5"><title>Praecipua (TheAllCreator)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1296.51" y="1151.59" width="17.5" height="17.5"><title>Soft Beid (Joeman CXL)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1137.40" y="562.23" width="17.5" height="17.5"><title>Kappa Albaldah (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="573.97" y="923.72" width="17.5" height="17.5"><title>Mega Alhena (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1413.11" y="861.57" width="17.5" height="17.5"><title>Haedus (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1130.51" y="536.39" width="17.5" height="17.5"><title>Cold Tic (TheAllCreator)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1963.83" y="2046.50" width="17.5" height="17.5"><title>1 0 (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1943.08" y="2070.30" width="17.5" height="17.5"><title>Soft Homam (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1916.28" y="2025.88" width="17.5" height="17.5"><title>Red Meissa (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1922.87" y="2000.47" width="17.5" height="17.5"><title>Sasin (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1880.57" y="2101.22" width="17.5" height="17.5"><title>Dry Zaurak (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="2043.49" y="2077.78" width="17.5" height="17.5"><title>New Grassias (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1838.36" y="2044.19" width="17.5" height="17.5"><title>Mirach (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1866.72" y="2146.45" width="17.5" height="17.5"><title>Tau Unuk (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="2087.64" y="2129.57" width="17.5" height="17.5"><title>Blue Asterion (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1839.88" y="1937.38" width="17.5" height="17.5"><title>Misam (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1907.51" y="1888.75" width="17.5" height="17.5"><title>Grand Alrami (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1782.17" y="1991.26" width="17.5" height="17.5"><title>Spy (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1760.43" y="2000.92" width="17.5" height="17.5"><title>Maasym (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1757.73" y="2048.58" width="17.5" height="17.5"><title>Young Bellatrix (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="2021.60" y="2224.14" width="17.5" height="17.5"><title>Pure Ashlesha (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="2156.39" y="2044.72" width="17.5" height="17.5"><title>Mu Subra (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1826.19" y="1824.89" width="17.5" height="17.5"><title>Bunda (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="2101.93" y="1854.69" width="17.5" height="17.5"><title>Free Denebola (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="2178.09" y="2130.34" width="17.5" height="17.5"><title>Ascella (Acalc79)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1803.54" y="2283.90" width="17.5" height="17.5"><title>Pure Proxima (Abyssal Scribe)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1995.71" y="2304.68" width="17.5" height="17.5"><title>White Kaus (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="2160.30" y="2259.19" width="17.5" height="17.5"><title>Zeta Fad (Acalc79)</title></image>
+<image href="../source/cropped/green-triangle.png" x="1989.01" y="1726.97" width="17.5" height="17.5"><title>Pi Angetenar (Pothos)</title></image>
+<image href="../source/cropped/red-triangle.png" x="2264.01" y="2149.10" width="17.5" height="17.5"><title>Adhara (Acalc79)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2003.10" y="1691.17" width="17.5" height="17.5"><title>Mega Arrakis (Pothos)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1651.58" y="1804.33" width="17.5" height="17.5"><title>White Hag (Acalc79)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1595.51" y="2198.12" width="17.5" height="17.5"><title>Benetnasch (Abyssal Scribe)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2242.24" y="1781.47" width="17.5" height="17.5"><title>Ain (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2184.26" y="1696.77" width="17.5" height="17.5"><title>Beta Biham (Pothos)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1629.35" y="2362.99" width="17.5" height="17.5"><title>Delta Azmidiske (Abyssal Scribe)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2043.89" y="1588.02" width="17.5" height="17.5"><title>New Arided (Pothos)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1913.36" y="385.27" width="17.5" height="17.5"><title>Hadar (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1911.49" y="348.51" width="17.5" height="17.5"><title>Young Alamak (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1889.12" y="399.59" width="17.5" height="17.5"><title>Free Hyadum (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1887.75" y="370.64" width="17.5" height="17.5"><title>Pherkad (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="2015.24" y="365.83" width="17.5" height="17.5"><title>Dnoces (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1913.59" y="301.92" width="17.5" height="17.5"><title>Wet Baham (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="2024.44" y="351.90" width="17.5" height="17.5"><title>Alkurah (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1967.14" y="481.61" width="17.5" height="17.5"><title>Mi (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1829.02" y="449.09" width="17.5" height="17.5"><title>Altarf (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1997.60" y="512.69" width="17.5" height="17.5"><title>Red Mebsuta (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1805.76" y="318.45" width="17.5" height="17.5"><title>Kappa Diadem (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1781.41" y="432.02" width="17.5" height="17.5"><title>Lush Lanx (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1880.03" y="222.65" width="17.5" height="17.5"><title>Cold Alkes (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1747.80" y="352.91" width="17.5" height="17.5"><title>Beta Gacrux (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="2126.91" y="350.91" width="17.5" height="17.5"><title>Pure Alcyone (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1872.30" y="185.09" width="17.5" height="17.5"><title>Aldib (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="2188.32" y="340.02" width="17.5" height="17.5"><title>Nu Hamal (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="2163.93" y="248.60" width="17.5" height="17.5"><title>Jabbah (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1735.89" y="505.73" width="17.5" height="17.5"><title>Fast Achird (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1775.54" y="169.49" width="17.5" height="17.5"><title>Theta Ice (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1826.25" y="103.65" width="17.5" height="17.5"><title>Chow (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1885.53" y="82.00" width="17.5" height="17.5"><title>Nu Pollux (TheAllCreator)</title></image>
+<image href="../source/cropped/teal-triangle.png" x="2214.59" y="500.42" width="17.5" height="17.5"><title>Odd Alwaid (Darvhaz)</title></image>
+<image href="../source/cropped/teal-triangle.png" x="2248.77" y="450.94" width="17.5" height="17.5"><title>Blue Nunki (Darvhaz)</title></image>
+<image href="../source/cropped/purple-triangle.png" x="2159.53" y="136.02" width="17.5" height="17.5"><title>Black Kajam (Carl the Conqueror)</title></image>
+<image href="../source/cropped/blue-circle.png" x="2203.34" y="565.11" width="17.5" height="17.5"><title>Beta Auva (TheAllCreator)</title></image>
+<image href="../source/cropped/purple-triangle.png" x="2101.64" y="51.25" width="17.5" height="17.5"><title>Dull Caph (Carl the Conqueror)</title></image>
+<image href="../source/cropped/teal-triangle.png" x="2233.92" y="615.66" width="17.5" height="17.5"><title>Fast Schedir (Darvhaz)</title></image>
+<image href="../source/cropped/teal-triangle.png" x="2217.42" y="646.99" width="17.5" height="17.5"><title>Kappa Meissa (Darvhaz)</title></image>
+<image href="../source/cropped/purple-triangle.png" x="2209.10" y="70.77" width="17.5" height="17.5"><title>Arided (Carl the Conqueror)</title></image>
+<image href="../source/cropped/teal-triangle.png" x="2051.94" y="772.96" width="17.5" height="17.5"><title>White Rat (Darvhaz)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1911.02" y="2608.01" width="17.5" height="17.5"><title>Kit (Abyssal Scribe)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1938.77" y="2546.44" width="17.5" height="17.5"><title>Last Sasin (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1989.86" y="2619.04" width="17.5" height="17.5"><title>Merga (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="2000.93" y="2563.40" width="17.5" height="17.5"><title>Sigma Asterion (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1995.97" y="2655.52" width="17.5" height="17.5"><title>Nashira (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="2024.86" y="2660.04" width="17.5" height="17.5"><title>Grumium (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1971.94" y="2505.04" width="17.5" height="17.5"><title>Hard Alchiba (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1855.92" y="2692.10" width="17.5" height="17.5"><title>Mu Kastra (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="2022.44" y="2497.82" width="17.5" height="17.5"><title>Bharani (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="2070.32" y="2627.71" width="17.5" height="17.5"><title>Zeta Tabit (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="2017.12" y="2745.16" width="17.5" height="17.5"><title>Alpheratz (Acalc79)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1871.85" y="2470.75" width="17.5" height="17.5"><title>Pure Sadalsuud (Abyssal Scribe)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1987.62" y="2443.00" width="17.5" height="17.5"><title>Mahasim (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1994.88" y="2807.42" width="17.5" height="17.5"><title>Delta Imp (Acalc79)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1757.21" y="2579.88" width="17.5" height="17.5"><title>Delta Ancha (Abyssal Scribe)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1889.29" y="2826.07" width="17.5" height="17.5"><title>Port Misam (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="2164.55" y="2611.95" width="17.5" height="17.5"><title>New Pux (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1997.89" y="2851.01" width="17.5" height="17.5"><title>Paw (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="2165.71" y="2749.51" width="17.5" height="17.5"><title>Mu Azha (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="2193.73" y="2685.49" width="17.5" height="17.5"><title>Dark Gor (Acalc79)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="2068.35" y="2845.46" width="17.5" height="17.5"><title>Wet Adhara (Abyssal Scribe)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1913.90" y="2896.25" width="17.5" height="17.5"><title>Kappa Alchiba (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="2108.00" y="2374.69" width="17.5" height="17.5"><title>Alpha Duhr (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="2194.04" y="2427.01" width="17.5" height="17.5"><title>Acrux (Acalc79)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1732.49" y="2372.29" width="17.5" height="17.5"><title>Zit (Abyssal Scribe)</title></image>
+<image href="../source/cropped/red-triangle.png" x="2152.47" y="2857.29" width="17.5" height="17.5"><title>Dark Hadir (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1974.77" y="2261.51" width="17.5" height="17.5"><title>Sigma Alhena (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="2185.74" y="2371.50" width="17.5" height="17.5"><title>Celaeno (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="2231.35" y="2827.39" width="17.5" height="17.5"><title>Sigma Sulafat (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1952.12" y="2228.57" width="17.5" height="17.5"><title>Kita (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="2159.61" y="2931.25" width="17.5" height="17.5"><title>Biham (Acalc79)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1911.73" y="932.64" width="17.5" height="17.5"><title>Bright Propus (TheAllCreator)</title></image>
+<image href="../source/cropped/teal-triangle.png" x="1914.08" y="976.83" width="17.5" height="17.5"><title>Nova Procyon (Darvhaz)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1895.06" y="911.73" width="17.5" height="17.5"><title>Nova Nusakan (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="2023.44" y="882.25" width="17.5" height="17.5"><title>Pi Alkaid (TheAllCreator)</title></image>
+<image href="../source/cropped/teal-triangle.png" x="2016.50" y="997.53" width="17.5" height="17.5"><title>Fort Toe (Darvhaz)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1880.53" y="850.39" width="17.5" height="17.5"><title>Slow Sarin (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1859.45" y="859.42" width="17.5" height="17.5"><title>Young Alya (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1855.04" y="1047.45" width="17.5" height="17.5"><title>Alfecca (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="2050.60" y="862.99" width="17.5" height="17.5"><title>Young Porrima (TheAllCreator)</title></image>
+<image href="../source/cropped/teal-triangle.png" x="2108.82" y="881.12" width="17.5" height="17.5"><title>Black Sceptrum (Darvhaz)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1862.63" y="785.97" width="17.5" height="17.5"><title>Megrez (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1971.09" y="749.80" width="17.5" height="17.5"><title>New Sadalbari (TheAllCreator)</title></image>
+<image href="../source/cropped/teal-triangle.png" x="2078.67" y="1065.91" width="17.5" height="17.5"><title>Young Tania (Darvhaz)</title></image>
+<image href="../source/cropped/teal-triangle.png" x="2153.26" y="912.27" width="17.5" height="17.5"><title>Wet Pax (Darvhaz)</title></image>
+<image href="../source/cropped/teal-triangle.png" x="2152.34" y="1039.08" width="17.5" height="17.5"><title>Sun (Darvhaz)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1731.39" y="809.01" width="17.5" height="17.5"><title>Mirzam (TheAllCreator)</title></image>
+<image href="../source/cropped/orange-triangle.png" x="2021.46" y="1190.54" width="17.5" height="17.5"><title>Dry Alula (Skorne)</title></image>
+<image href="../source/cropped/teal-triangle.png" x="2162.56" y="774.29" width="17.5" height="17.5"><title>Hot Thuban (Darvhaz)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1680.27" y="1043.33" width="17.5" height="17.5"><title>Birdun (TheAllCreator)</title></image>
+<image href="../source/cropped/teal-triangle.png" x="2178.90" y="762.28" width="17.5" height="17.5"><title>Nu Canopus (Darvhaz)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1617.80" y="895.21" width="17.5" height="17.5"><title>Old Errai (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1924.52" y="614.92" width="17.5" height="17.5"><title>Dark Spy (TheAllCreator)</title></image>
+<image href="../source/cropped/teal-triangle.png" x="2078.52" y="1272.42" width="17.5" height="17.5"><title>Ale (Darvhaz)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1705.32" y="690.69" width="17.5" height="17.5"><title>Sigma Alzir (TheAllCreator)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2184.80" y="1200.44" width="17.5" height="17.5"><title>Eta Algorab (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2041.21" y="1314.33" width="17.5" height="17.5"><title>Hot Izar (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="1940.99" y="1353.80" width="17.5" height="17.5"><title>Nash (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2287.04" y="1178.67" width="17.5" height="17.5"><title>Mega Thabit (Pothos)</title></image>
+<image href="../source/cropped/teal-triangle.png" x="2257.42" y="678.88" width="17.5" height="17.5"><title>Beta Goo (Darvhaz)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2380.20" y="1020.78" width="17.5" height="17.5"><title>Alpha Merak (Pothos)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1649.31" y="1293.16" width="17.5" height="17.5"><title>Delta Fax (Achenar)</title></image>
+<image href="../source/cropped/teal-circle.png" x="994.92" y="1454.56" width="17.5" height="17.5"><title>Mu Naos (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="972.84" y="1515.69" width="17.5" height="17.5"><title>Black Ascella (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1005.49" y="1543.15" width="17.5" height="17.5"><title>Dark Mahasim (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="917.64" y="1486.05" width="17.5" height="17.5"><title>Kat (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1018.77" y="1541.67" width="17.5" height="17.5"><title>Odd Sarin (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1050.28" y="1428.78" width="17.5" height="17.5"><title>Gamma Rasalas (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="912.80" y="1404.89" width="17.5" height="17.5"><title>Free Sheratan (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="873.55" y="1498.12" width="17.5" height="17.5"><title>Chi (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="978.64" y="1378.02" width="17.5" height="17.5"><title>Hot Pleione (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="836.70" y="1475.25" width="17.5" height="17.5"><title>Dull Alkurah (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="926.91" y="1616.15" width="17.5" height="17.5"><title>Last Theemin (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="978.60" y="1308.88" width="17.5" height="17.5"><title>Last Zuben (Joeman CXL)</title></image>
+<image href="../source/cropped/purple-circle.png" x="982.75" y="1651.01" width="17.5" height="17.5"><title>Arcadia (Achenar)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1116.78" y="1340.66" width="17.5" height="17.5"><title>Ion (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1162.66" y="1497.00" width="17.5" height="17.5"><title>Free Brachium (Joeman CXL)</title></image>
+<image href="../source/cropped/purple-circle.png" x="948.08" y="1659.48" width="17.5" height="17.5"><title>Best Friend (Achenar)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1153.48" y="1405.38" width="17.5" height="17.5"><title>Menkalinan (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="768.42" y="1447.02" width="17.5" height="17.5"><title>Black Rana (Joeman CXL)</title></image>
+<image href="../source/cropped/purple-circle.png" x="945.27" y="1717.06" width="17.5" height="17.5"><title>Bastion (Achenar)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1217.10" y="1524.11" width="17.5" height="17.5"><title>ZAlwaid (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="729.71" y="1391.58" width="17.5" height="17.5"><title>Rasalas (Joeman CXL)</title></image>
+<image href="../source/cropped/purple-circle.png" x="951.66" y="1771.59" width="17.5" height="17.5"><title>Liberty (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="997.11" y="1766.47" width="17.5" height="17.5"><title>Chronos (Achenar)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1276.04" y="1496.46" width="17.5" height="17.5"><title>Hot Alfecca (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="704.52" y="1282.88" width="17.5" height="17.5"><title>Lost Ant (Joeman CXL)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1025.13" y="1800.95" width="17.5" height="17.5"><title>Chiron (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1193.33" y="1754.58" width="17.5" height="17.5"><title>Pluto (Achenar)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1292.66" y="1299.33" width="17.5" height="17.5"><title>Ash (Joeman CXL)</title></image>
+<image href="../source/cropped/purple-circle.png" x="751.09" y="1806.61" width="17.5" height="17.5"><title>Boundless Friendship (Achenar)</title></image>
+<image href="../source/cropped/teal-circle.png" x="606.72" y="1322.24" width="17.5" height="17.5"><title>Wet Rukbat (Joeman CXL)</title></image>
+<image href="../source/cropped/blue-circle.png" x="752.28" y="1093.63" width="17.5" height="17.5"><title>Red Albireo (TheAllCreator)</title></image>
+<image href="../source/cropped/orange-triangle.png" x="1623.28" y="1498.06" width="17.5" height="17.5"><title>Mirfak (Skorne)</title></image>
+<image href="../source/cropped/orange-triangle.png" x="1644.64" y="1513.65" width="17.5" height="17.5"><title>Lush Septen (Skorne)</title></image>
+<image href="../source/cropped/orange-triangle.png" x="1569.06" y="1470.79" width="17.5" height="17.5"><title>Lost Arcturus (Skorne)</title></image>
+<image href="../source/cropped/orange-triangle.png" x="1651.36" y="1538.03" width="17.5" height="17.5"><title>Kappa Acrux (Skorne)</title></image>
+<image href="../source/cropped/orange-triangle.png" x="1702.51" y="1478.74" width="17.5" height="17.5"><title>Nova Wasat (Skorne)</title></image>
+<image href="../source/cropped/green-triangle.png" x="1617.41" y="1379.64" width="17.5" height="17.5"><title>Pi Tax (Pothos)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1559.48" y="1405.50" width="17.5" height="17.5"><title>Pure Mirzam (TheAllCreator)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1648.00" y="1367.18" width="17.5" height="17.5"><title>White Askella (Achenar)</title></image>
+<image href="../source/cropped/orange-triangle.png" x="1750.81" y="1501.68" width="17.5" height="17.5"><title>Alphecca (Skorne)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1541.45" y="1589.51" width="17.5" height="17.5"><title>New Situla (TheAllCreator)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1709.38" y="1610.39" width="17.5" height="17.5"><title>Black Alsafi (Acalc79)</title></image>
+<image href="../source/cropped/green-triangle.png" x="1492.24" y="1400.12" width="17.5" height="17.5"><title>Markab (Pothos)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1750.97" y="1337.16" width="17.5" height="17.5"><title>Nu Rukbat (Achenar)</title></image>
+<image href="../source/cropped/teal-triangle.png" x="1805.38" y="1524.81" width="17.5" height="17.5"><title>Young Ruchba (Darvhaz)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1432.01" y="1510.62" width="17.5" height="17.5"><title>Alzir (Joeman CXL)</title></image>
+<image href="../source/cropped/green-triangle.png" x="1815.80" y="1394.16" width="17.5" height="17.5"><title>Young Garnet (Pothos)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1405.92" y="1509.76" width="17.5" height="17.5"><title>Odd Ire (Joeman CXL)</title></image>
+<image href="../source/cropped/green-triangle.png" x="1838.40" y="1578.90" width="17.5" height="17.5"><title>Eltanin (Pothos)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1764.99" y="1700.30" width="17.5" height="17.5"><title>Cold Alkalurops (Acalc79)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1426.71" y="1299.19" width="17.5" height="17.5"><title>Hot Yak (Joeman CXL)</title></image>
+<image href="../source/cropped/green-triangle.png" x="1891.85" y="1581.69" width="17.5" height="17.5"><title>Hard Pherkard (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="1896.87" y="1637.36" width="17.5" height="17.5"><title>Pug (Pothos)</title></image>
+<image href="../source/cropped/orange-triangle.png" x="1841.38" y="1256.54" width="17.5" height="17.5"><title>Tau Arc (Skorne)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1829.74" y="1728.69" width="17.5" height="17.5"><title>Black Septen (Acalc79)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1603.71" y="1123.63" width="17.5" height="17.5"><title>Mu Gienah (TheAllCreator)</title></image>
+<image href="../source/cropped/green-triangle.png" x="1945.95" y="1308.97" width="17.5" height="17.5"><title>Alphard (Pothos)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1840.86" y="1179.64" width="17.5" height="17.5"><title>Slow Capella (Achenar)</title></image>
+<image href="../source/cropped/green-triangle.png" x="1978.37" y="1314.15" width="17.5" height="17.5"><title>Lost Asp (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2002.27" y="1461.72" width="17.5" height="17.5"><title>Fast Ram (Pothos)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1785.12" y="1109.62" width="17.5" height="17.5"><title>Beta Acubens (Achenar)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1428.13" y="1877.11" width="17.5" height="17.5"><title>Syrma (Acalc79)</title></image>
+<image href="../source/cropped/teal-circle.png" x="835.36" y="1216.02" width="17.5" height="17.5"><title>Fort Becrux (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="806.04" y="1234.19" width="17.5" height="17.5"><title>White Hydrobius (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="848.61" y="1228.11" width="17.5" height="17.5"><title>Sigma Kat (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="786.91" y="1271.92" width="17.5" height="17.5"><title>Young Unuk (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="887.97" y="1240.64" width="17.5" height="17.5"><title>Lost Aladfar (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="734.71" y="1185.97" width="17.5" height="17.5"><title>Alioth (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="921.82" y="1209.94" width="17.5" height="17.5"><title>Fad (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="836.91" y="1319.88" width="17.5" height="17.5"><title>Port Mimosa (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="863.30" y="1319.70" width="17.5" height="17.5"><title>Old Cox (Joeman CXL)</title></image>
+<image href="../source/cropped/purple-circle.png" x="764.38" y="1344.22" width="17.5" height="17.5"><title>Pikachu (Achenar)</title></image>
+<image href="../source/cropped/blue-circle.png" x="703.20" y="1133.48" width="17.5" height="17.5"><title>Hot Alioth (TheAllCreator)</title></image>
+<image href="../source/cropped/teal-circle.png" x="984.06" y="1208.43" width="17.5" height="17.5"><title>Soft Wezen (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="645.36" y="1238.57" width="17.5" height="17.5"><title>Hard Shy (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="785.90" y="1396.21" width="17.5" height="17.5"><title>Kajam (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="628.37" y="1268.70" width="17.5" height="17.5"><title>Sham (Joeman CXL)</title></image>
+<image href="../source/cropped/blue-circle.png" x="688.38" y="1080.59" width="17.5" height="17.5"><title>Dark Merga (TheAllCreator)</title></image>
+<image href="../source/cropped/teal-circle.png" x="846.59" y="1416.66" width="17.5" height="17.5"><title>Pure Algedi (Joeman CXL)</title></image>
+<image href="../source/cropped/purple-circle.png" x="914.26" y="1424.91" width="17.5" height="17.5"><title>Old Avior (Achenar)</title></image>
+<image href="../source/cropped/blue-circle.png" x="578.10" y="1238.53" width="17.5" height="17.5"><title>Lush Pan (TheAllCreator)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1025.94" y="1096.84" width="17.5" height="17.5"><title>Fort Azimech (Achenar)</title></image>
+<image href="../source/cropped/blue-circle.png" x="917.81" y="961.93" width="17.5" height="17.5"><title>Goo (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="696.08" y="918.70" width="17.5" height="17.5"><title>Cold Grassias (TheAllCreator)</title></image>
+<image href="../source/cropped/purple-circle.png" x="677.55" y="1540.53" width="17.5" height="17.5"><title>Rigil (Achenar)</title></image>
+<image href="../source/cropped/blue-circle.png" x="441.95" y="1216.78" width="17.5" height="17.5"><title>Sky (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="884.24" y="839.06" width="17.5" height="17.5"><title>Gienah (TheAllCreator)</title></image>
+<image href="../source/cropped/purple-circle.png" x="430.33" y="1343.05" width="17.5" height="17.5"><title>Beta Salm (Achenar)</title></image>
+<image href="../source/cropped/blue-circle.png" x="499.39" y="940.87" width="17.5" height="17.5"><title>Fort Zu (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="643.45" y="810.10" width="17.5" height="17.5"><title>Hard Ksora (TheAllCreator)</title></image>
+<image href="../source/cropped/purple-circle.png" x="654.14" y="1636.36" width="17.5" height="17.5"><title>Tag (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="373.60" y="1418.72" width="17.5" height="17.5"><title>Angetenar (Achenar)</title></image>
+<image href="../source/cropped/blue-circle.png" x="526.08" y="808.48" width="17.5" height="17.5"><title>Pure Rastaban (TheAllCreator)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1483.15" y="1782.79" width="17.5" height="17.5"><title>Cox (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1485.26" y="1796.74" width="17.5" height="17.5"><title>Fast Tabit (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1430.99" y="1811.42" width="17.5" height="17.5"><title>Ice (Acalc79)</title></image>
+<image href="../source/cropped/teal-triangle.png" x="1399.81" y="1741.32" width="17.5" height="17.5"><title>Kitty (Darvhaz)</title></image>
+<image href="../source/cropped/teal-triangle.png" x="1510.61" y="1727.15" width="17.5" height="17.5"><title>Beta Navi (Darvhaz)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1385.84" y="1800.12" width="17.5" height="17.5"><title>Situla (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1535.85" y="1807.12" width="17.5" height="17.5"><title>Ugh (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1348.02" y="1749.61" width="17.5" height="17.5"><title>Crescent (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1407.17" y="1886.79" width="17.5" height="17.5"><title>Old Kullat (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1538.00" y="1688.28" width="17.5" height="17.5"><title>Yum (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1617.82" y="1806.27" width="17.5" height="17.5"><title>Pleione (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1625.15" y="1846.30" width="17.5" height="17.5"><title>Imp (Acalc79)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1439.55" y="1959.24" width="17.5" height="17.5"><title>White Cheleb (Abyssal Scribe)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1600.45" y="1908.80" width="17.5" height="17.5"><title>Odd Alrai (Abyssal Scribe)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1559.54" y="1612.81" width="17.5" height="17.5"><title>Tab (Acalc79)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1277.28" y="1859.12" width="17.5" height="17.5"><title>zFinnest (Achenar)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1705.39" y="1800.25" width="17.5" height="17.5"><title>Cheleb (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1279.96" y="1930.64" width="17.5" height="17.5"><title>Zuggernaut (Acalc79)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1461.86" y="2046.81" width="17.5" height="17.5"><title>Port Ale (Abyssal Scribe)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1207.14" y="1937.19" width="17.5" height="17.5"><title>Bejor (Achenar)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1679.61" y="1985.07" width="17.5" height="17.5"><title>Port Alula (Acalc79)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1570.78" y="2077.48" width="17.5" height="17.5"><title>Dull Antares (Abyssal Scribe)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1749.15" y="1935.70" width="17.5" height="17.5"><title>Nunki (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1275.20" y="2073.21" width="17.5" height="17.5"><title>zFar Away (Acalc79)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1076.93" y="1801.17" width="17.5" height="17.5"><title>Salusus Sacundus (Achenar)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1832.59" y="1775.80" width="17.5" height="17.5"><title>Soft Regor (Acalc79)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1377.13" y="1397.10" width="17.5" height="17.5"><title>Albali (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1165.04" y="1469.53" width="17.5" height="17.5"><title>Soft Syrma (Joeman CXL)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1810.84" y="2017.83" width="17.5" height="17.5"><title>Mesarthim (Acalc79)</title></image>
+<image href="../source/cropped/green-triangle.png" x="1892.13" y="1619.74" width="17.5" height="17.5"><title>White Rastaban (Pothos)</title></image>
+<image href="../source/cropped/yellow-triangle.png" x="1387.23" y="2223.34" width="17.5" height="17.5"><title>Grand Nash (Abyssal Scribe)</title></image>
+<image href="../source/cropped/blue-circle.png" x="627.73" y="940.04" width="17.5" height="17.5"><title>Zavijava (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="686.95" y="922.43" width="17.5" height="17.5"><title>Young Rub (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="700.70" y="931.35" width="17.5" height="17.5"><title>Port Toliman (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="601.87" y="959.41" width="17.5" height="17.5"><title>Dull Corvid (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="722.21" y="971.75" width="17.5" height="17.5"><title>Tyl (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="730.80" y="988.43" width="17.5" height="17.5"><title>Alaraph (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="762.47" y="941.17" width="17.5" height="17.5"><title>Kappa Brachium (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="684.59" y="1058.57" width="17.5" height="17.5"><title>Lush Minchir (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="553.42" y="1004.70" width="17.5" height="17.5"><title>Mu Deneb (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="604.90" y="811.52" width="17.5" height="17.5"><title>Pi Juxta (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="576.85" y="836.04" width="17.5" height="17.5"><title>Sigma Pux (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="806.47" y="973.10" width="17.5" height="17.5"><title>Pi Hamal (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="671.99" y="1103.56" width="17.5" height="17.5"><title>Zeta Kita (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="763.21" y="1071.01" width="17.5" height="17.5"><title>Phact (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="534.65" y="783.12" width="17.5" height="17.5"><title>Rye (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="483.97" y="1057.34" width="17.5" height="17.5"><title>Red Minkar (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="793.16" y="1135.67" width="17.5" height="17.5"><title>Yay (TheAllCreator)</title></image>
+<image href="../source/cropped/teal-circle.png" x="862.34" y="1071.60" width="17.5" height="17.5"><title>Capella (Joeman CXL)</title></image>
+<image href="../source/cropped/blue-circle.png" x="777.31" y="701.26" width="17.5" height="17.5"><title>Sargas (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="376.82" y="894.64" width="17.5" height="17.5"><title>Hard Aldib (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="788.05" y="666.77" width="17.5" height="17.5"><title>Lost Matar (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="655.63" y="643.73" width="17.5" height="17.5"><title>Soft Altais (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="332.43" y="931.72" width="17.5" height="17.5"><title>Homam (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="332.32" y="1044.63" width="17.5" height="17.5"><title>Bright Rye (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="324.35" y="870.30" width="17.5" height="17.5"><title>Free Wei (TheAllCreator)</title></image>
+<image href="../source/cropped/teal-circle.png" x="629.19" y="1280.91" width="17.5" height="17.5"><title>Mekbuda (Joeman CXL)</title></image>
+<image href="../source/cropped/blue-circle.png" x="512.33" y="584.27" width="17.5" height="17.5"><title>Mu Bellatrix (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1029.70" y="1054.29" width="17.5" height="17.5"><title>Chara (TheAllCreator)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1036.48" y="1073.01" width="17.5" height="17.5"><title>Fax (TheAllCreator)</title></image>
+<image href="../source/cropped/teal-circle.png" x="545.91" y="1323.89" width="17.5" height="17.5"><title>Mu Regulus (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1001.32" y="1154.59" width="17.5" height="17.5"><title>Dull Dux (Joeman CXL)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2101.72" y="1798.22" width="17.5" height="17.5"><title>Elnath (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2087.69" y="1768.46" width="17.5" height="17.5"><title>Red Matar (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2054.05" y="1770.61" width="17.5" height="17.5"><title>Cold Irk (Pothos)</title></image>
+<image href="../source/cropped/red-triangle.png" x="2112.92" y="1836.25" width="17.5" height="17.5"><title>Young Wow (Acalc79)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2049.17" y="1792.93" width="17.5" height="17.5"><title>Pee (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2032.57" y="1803.79" width="17.5" height="17.5"><title>Red Mud (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="1996.09" y="1754.98" width="17.5" height="17.5"><title>Betria (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2126.95" y="1662.62" width="17.5" height="17.5"><title>Port Zavijava (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="1962.39" y="1765.77" width="17.5" height="17.5"><title>Port Scheat (Pothos)</title></image>
+<image href="../source/cropped/red-triangle.png" x="2056.28" y="1913.60" width="17.5" height="17.5"><title>4 6 (Acalc79)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2129.30" y="1582.03" width="17.5" height="17.5"><title>Nova Algedi (Pothos)</title></image>
+<image href="../source/cropped/red-triangle.png" x="2270.23" y="1881.09" width="17.5" height="17.5"><title>Peacock (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1996.06" y="1932.69" width="17.5" height="17.5"><title>2 5 (Acalc79)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2068.55" y="1551.61" width="17.5" height="17.5"><title>Alnasl (Pothos)</title></image>
+<image href="../source/cropped/red-triangle.png" x="2236.43" y="1966.79" width="17.5" height="17.5"><title>Delta Canopus (Acalc79)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2026.47" y="1566.72" width="17.5" height="17.5"><title>Jih (Pothos)</title></image>
+<image href="../source/cropped/red-triangle.png" x="2317.95" y="1912.71" width="17.5" height="17.5"><title>Hot Okul (Acalc79)</title></image>
+<image href="../source/cropped/green-triangle.png" x="1910.78" y="1606.22" width="17.5" height="17.5"><title>Port Hoedus (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2364.25" y="1697.82" width="17.5" height="17.5"><title>Sigma Sasin (Pothos)</title></image>
+<image href="../source/cropped/red-triangle.png" x="2347.90" y="1929.03" width="17.5" height="17.5"><title>Tau Yak (Acalc79)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2401.61" y="1784.75" width="17.5" height="17.5"><title>Black Haldus (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2391.73" y="1649.37" width="17.5" height="17.5"><title>Bright Alshat (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2324.00" y="1539.33" width="17.5" height="17.5"><title>Betelgeuse (Pothos)</title></image>
+<image href="../source/cropped/red-triangle.png" x="2320.23" y="2073.83" width="17.5" height="17.5"><title>Odd Sualocin (Acalc79)</title></image>
+<image href="../source/cropped/red-triangle.png" x="2377.99" y="2053.03" width="17.5" height="17.5"><title>Bright Albali (Acalc79)</title></image>
+<image href="../source/cropped/green-triangle.png" x="1773.23" y="1563.76" width="17.5" height="17.5"><title>Lush Praecipua (Pothos)</title></image>
+<image href="../source/cropped/red-triangle.png" x="2294.05" y="2132.09" width="17.5" height="17.5"><title>Lush Tor (Acalc79)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2457.44" y="1569.08" width="17.5" height="17.5"><title>Dull Jih (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="2353.47" y="1433.36" width="17.5" height="17.5"><title>Tau Baten (Pothos)</title></image>
+<image href="../source/cropped/green-triangle.png" x="1998.11" y="1337.98" width="17.5" height="17.5"><title>Eta Arich (Pothos)</title></image>
+<image href="../source/cropped/red-triangle.png" x="2356.14" y="2187.02" width="17.5" height="17.5"><title>Chort (Acalc79)</title></image>
+<image href="../source/cropped/purple-circle.png" x="356.80" y="1503.66" width="17.5" height="17.5"><title>Sadr (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="348.83" y="1416.83" width="17.5" height="17.5"><title>Odd Electra (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="373.84" y="1500.89" width="17.5" height="17.5"><title>Saiph (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="391.64" y="1447.53" width="17.5" height="17.5"><title>Hard Adhara (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="244.70" y="1515.30" width="17.5" height="17.5"><title>Eta Koi (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="211.88" y="1483.23" width="17.5" height="17.5"><title>Minchir (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="230.59" y="1528.27" width="17.5" height="17.5"><title>Keg (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="251.24" y="1595.86" width="17.5" height="17.5"><title>Spica (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="483.13" y="1452.63" width="17.5" height="17.5"><title>Odd Arcturus (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="265.88" y="1326.41" width="17.5" height="17.5"><title>Mac (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="307.21" y="1665.40" width="17.5" height="17.5"><title>Lost Regor (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="149.63" y="1499.63" width="17.5" height="17.5"><title>Soft Hassaleh (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="460.59" y="1632.82" width="17.5" height="17.5"><title>Old Kaf (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="516.38" y="1615.83" width="17.5" height="17.5"><title>Hot Arneb (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="104.27" y="1585.04" width="17.5" height="17.5"><title>Diphda (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="568.07" y="1479.58" width="17.5" height="17.5"><title>Duo (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="82.33" y="1552.49" width="17.5" height="17.5"><title>Alpha Quo (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="599.18" y="1530.57" width="17.5" height="17.5"><title>Gamma TseenKee (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="383.56" y="1742.87" width="17.5" height="17.5"><title>Mu Menkib (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="298.00" y="1177.15" width="17.5" height="17.5"><title>Mu Scheddi (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="51.25" y="1620.06" width="17.5" height="17.5"><title>Pi Dschubba (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="518.53" y="1753.25" width="17.5" height="17.5"><title>Red Tag (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="464.12" y="1780.33" width="17.5" height="17.5"><title>Merope (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="541.90" y="1757.43" width="17.5" height="17.5"><title>Bellatrix (Achenar)</title></image>
+<image href="../source/cropped/blue-circle.png" x="418.06" y="1137.80" width="17.5" height="17.5"><title>Caph (TheAllCreator)</title></image>
+<image href="../source/cropped/purple-circle.png" x="352.04" y="1857.25" width="17.5" height="17.5"><title>Dull Minkar (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="56.49" y="1203.70" width="17.5" height="17.5"><title>Blue Terebellum (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="546.24" y="1796.25" width="17.5" height="17.5"><title>Asterope (Achenar)</title></image>
+<image href="../source/cropped/teal-circle.png" x="723.23" y="1477.74" width="17.5" height="17.5"><title>Okul (Joeman CXL)</title></image>
+<image href="../source/cropped/blue-circle.png" x="453.75" y="1096.06" width="17.5" height="17.5"><title>Gamma Heze (TheAllCreator)</title></image>
+<image href="../source/cropped/purple-circle.png" x="465.32" y="1884.27" width="17.5" height="17.5"><title>Maia (Achenar)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1303.70" y="1461.16" width="17.5" height="17.5"><title>Young Errai (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1278.94" y="1484.67" width="17.5" height="17.5"><title>Slow Korn (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1322.52" y="1531.76" width="17.5" height="17.5"><title>New Neo (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1357.08" y="1471.09" width="17.5" height="17.5"><title>AlKurud (Joeman CXL)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1249.76" y="1419.43" width="17.5" height="17.5"><title>Deneb (TheAllCreator)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1374.35" y="1512.33" width="17.5" height="17.5"><title>Skore (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1221.92" y="1508.50" width="17.5" height="17.5"><title>Ras (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1251.53" y="1579.31" width="17.5" height="17.5"><title>Dry Taygeta (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1180.97" y="1480.80" width="17.5" height="17.5"><title>Sadalmelik (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1271.00" y="1621.70" width="17.5" height="17.5"><title>Lost Muscida (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1195.41" y="1580.82" width="17.5" height="17.5"><title>Fort Almach (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1208.23" y="1322.70" width="17.5" height="17.5"><title>Dark Hyadum (Joeman CXL)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1486.47" y="1502.60" width="17.5" height="17.5"><title>Pi Heze (Acalc79)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1117.43" y="1529.82" width="17.5" height="17.5"><title>Regulus (Joeman CXL)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1455.09" y="1368.29" width="17.5" height="17.5"><title>Propus (TheAllCreator)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1159.86" y="1323.72" width="17.5" height="17.5"><title>Algieba (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1107.63" y="1613.29" width="17.5" height="17.5"><title>Wet Alshain (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1317.90" y="1717.01" width="17.5" height="17.5"><title>Delta Suhail (Joeman CXL)</title></image>
+<image href="../source/cropped/blue-circle.png" x="1542.63" y="1391.78" width="17.5" height="17.5"><title>Arc (TheAllCreator)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1063.46" y="1370.99" width="17.5" height="17.5"><title>Altair (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1405.38" y="1219.06" width="17.5" height="17.5"><title>Alpha Algorab (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1212.65" y="1183.54" width="17.5" height="17.5"><title>Alfirk (Joeman CXL)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1075.07" y="1232.07" width="17.5" height="17.5"><title>Dark Homam (Joeman CXL)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1583.53" y="1342.17" width="17.5" height="17.5"><title>Young Merope (Achenar)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1427.04" y="1163.59" width="17.5" height="17.5"><title>Ill (Achenar)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1569.25" y="1692.83" width="17.5" height="17.5"><title>Mega Merak (Acalc79)</title></image>
+<image href="../source/cropped/purple-circle.png" x="1055.96" y="1781.47" width="17.5" height="17.5"><title>Poratrin (Achenar)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1513.85" y="1803.61" width="17.5" height="17.5"><title>Media (Acalc79)</title></image>
+<image href="../source/cropped/teal-circle.png" x="1450.13" y="1106.04" width="17.5" height="17.5"><title>Menkab (Joeman CXL)</title></image>
+<image href="../source/cropped/red-triangle.png" x="1537.96" y="1821.14" width="17.5" height="17.5"><title>Lost Jib (Acalc79)</title></image>
+<image href="../source/cropped/teal-circle.png" x="861.57" y="1550.64" width="17.5" height="17.5"><title>Fort Mac (Joeman CXL)</title></image>
+
+<rect x="15" y="2727" width="190" height="258" fill="white"/>
+<text x="27" y="2750" font-size="14" font-weight="bold" font-family="sans-serif">Star Count</text>
+<image href="../source/cropped/blue-circle.png" x="20.00" y="2753.00" width="30" height="30"></image><text x="55" y="2772" font-size="13" font-family="sans-serif">TheAllCreator (329)</text>
+<image href="../source/cropped/purple-circle.png" x="20.00" y="2775.00" width="30" height="30"></image><text x="55" y="2794" font-size="13" font-family="sans-serif">Achenar (172)</text>
+<image href="../source/cropped/red-triangle.png" x="20.00" y="2797.00" width="30" height="30"></image><text x="55" y="2816" font-size="13" font-family="sans-serif">Acalc79 (139)</text>
+<image href="../source/cropped/teal-circle.png" x="20.00" y="2819.00" width="30" height="30"></image><text x="55" y="2838" font-size="13" font-family="sans-serif">Joeman CXL (138)</text>
+<image href="../source/cropped/green-triangle.png" x="20.00" y="2841.00" width="30" height="30"></image><text x="55" y="2860" font-size="13" font-family="sans-serif">Pothos (124)</text>
+<image href="../source/cropped/yellow-triangle.png" x="20.00" y="2863.00" width="30" height="30"></image><text x="55" y="2882" font-size="13" font-family="sans-serif">Abyssal Scribe (58)</text>
+<image href="../source/cropped/teal-triangle.png" x="20.00" y="2885.00" width="30" height="30"></image><text x="55" y="2904" font-size="13" font-family="sans-serif">Darvhaz (35)</text>
+<image href="../source/cropped/orange-triangle.png" x="20.00" y="2907.00" width="30" height="30"></image><text x="55" y="2926" font-size="13" font-family="sans-serif">Skorne (25)</text>
+<image href="../source/cropped/purple-triangle.png" x="20.00" y="2929.00" width="30" height="30"></image><text x="55" y="2948" font-size="13" font-family="sans-serif">Carl the Conqueror (3)</text>
+<image href="../source/cropped/orange-square.png" x="20.00" y="2951.00" width="30" height="30"></image><text x="55" y="2970" font-size="13" font-family="sans-serif">Evermind (1)</text>
+</svg>

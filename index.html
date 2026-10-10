@@ -3,11 +3,105 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>My SVG</title>
+  <title>NP5725 Galaxy Map</title>
+  <style>
+    html, body { margin: 0; height: 100%; overflow: hidden; background: #000; }
+    #viewport { position: fixed; inset: 0; overflow: hidden; cursor: grab; touch-action: none; }
+    #viewport.dragging { cursor: grabbing; }
+    #map { position: absolute; top: 0; left: 0; transform-origin: 0 0; will-change: transform; }
+    #map object { display: block; width: 100%; height: 100%; border: 0; pointer-events: none; }
+  </style>
 </head>
-<body style="margin: 0; text-align: center;">
-  <img src="NP5725_galaxy.svg"
-       alt="My SVG image"
-       style="max-width: 100%; height: auto;">
+<body>
+  <div id="viewport">
+    <div id="map">
+      <object data="./maps/NP5725_galaxy.svg"
+              type="image/svg+xml"
+              aria-label="NP5725 galaxy map">
+        <p>Unable to display the map. <a href="./maps/NP5725_galaxy.svg">Open the SVG directly</a>.</p>
+      </object>
+    </div>
+  </div>
+  <script>
+    const viewport = document.getElementById("viewport");
+    const map = document.getElementById("map");
+    const MAX_SCALE = 12;
+
+    let size, minScale, scale, x, y;
+
+    // The map is a square sized to cover the screen; scale 1 fills the viewport.
+    function reset() {
+      size = Math.max(innerWidth, innerHeight);
+      map.style.width = map.style.height = size + "px";
+      minScale = Math.min(innerWidth, innerHeight) / size;
+      scale = 1;
+      x = (innerWidth - size) / 2;
+      y = (innerHeight - size) / 2;
+      apply();
+    }
+
+    function apply() {
+      map.style.transform = `translate(${x}px, ${y}px) scale(${scale})`;
+    }
+
+    function zoomAt(cx, cy, factor) {
+      const next = Math.min(MAX_SCALE, Math.max(minScale, scale * factor));
+      const k = next / scale;
+      x = cx - (cx - x) * k;
+      y = cy - (cy - y) * k;
+      scale = next;
+      apply();
+    }
+
+    viewport.addEventListener("wheel", (e) => {
+      e.preventDefault();
+      zoomAt(e.clientX, e.clientY, Math.exp(-e.deltaY * (e.ctrlKey ? 0.01 : 0.002)));
+    }, { passive: false });
+
+    // Pointer events cover mouse drag, touch drag, and two-finger pinch.
+    const pointers = new Map();
+    let lastDist = 0;
+
+    viewport.addEventListener("pointerdown", (e) => {
+      viewport.setPointerCapture(e.pointerId);
+      pointers.set(e.pointerId, { x: e.clientX, y: e.clientY });
+      viewport.classList.add("dragging");
+      if (pointers.size === 2) {
+        const [a, b] = [...pointers.values()];
+        lastDist = Math.hypot(a.x - b.x, a.y - b.y);
+      }
+    });
+
+    viewport.addEventListener("pointermove", (e) => {
+      const p = pointers.get(e.pointerId);
+      if (!p) return;
+      const dx = e.clientX - p.x;
+      const dy = e.clientY - p.y;
+      p.x = e.clientX;
+      p.y = e.clientY;
+      if (pointers.size === 1) {
+        x += dx;
+        y += dy;
+        apply();
+      } else if (pointers.size === 2) {
+        const [a, b] = [...pointers.values()];
+        const dist = Math.hypot(a.x - b.x, a.y - b.y);
+        if (lastDist) zoomAt((a.x + b.x) / 2, (a.y + b.y) / 2, dist / lastDist);
+        lastDist = dist;
+      }
+    });
+
+    const endPointer = (e) => {
+      pointers.delete(e.pointerId);
+      lastDist = 0;
+      if (!pointers.size) viewport.classList.remove("dragging");
+    };
+    viewport.addEventListener("pointerup", endPointer);
+    viewport.addEventListener("pointercancel", endPointer);
+
+    viewport.addEventListener("dblclick", reset);
+    addEventListener("resize", reset);
+    reset();
+  </script>
 </body>
 </html>

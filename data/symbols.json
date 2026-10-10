@@ -1,0 +1,12 @@
+{
+  "TheAllCreator": { "color": "#2f6fed", "shape": "circle", "image": "../source/cropped/blue-circle.png" },
+  "Achenar": { "color": "#8e44ad", "shape": "circle", "image": "../source/cropped/purple-circle.png" },
+  "Acalc79": { "color": "#e02d2d", "shape": "triangle", "image": "../source/cropped/red-triangle.png" },
+  "Joeman CXL": { "color": "#1abc9c", "shape": "circle", "image": "../source/cropped/teal-circle.png" },
+  "Skorne": { "color": "#f28c1e", "shape": "triangle", "image": "../source/cropped/orange-triangle.png" },
+  "Pothos": { "color": "#2ecc40", "shape": "triangle", "image": "../source/cropped/green-triangle.png" },
+  "Abyssal Scribe": { "color": "#f1d500", "shape": "triangle", "image": "../source/cropped/yellow-triangle.png" },
+  "Darvhaz": { "color": "#1abc9c", "shape": "triangle", "image": "../source/cropped/teal-triangle.png" },
+  "Carl the Conqueror": { "color": "#8e44ad", "shape": "triangle", "image": "../source/cropped/purple-triangle.png" },
+  "Evermind": { "color": "#f28c1e", "shape": "square", "image": "../source/cropped/orange-square.png" }
+}
