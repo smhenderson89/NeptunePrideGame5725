@@ -13,8 +13,9 @@ const SYMBOLS = path.join(DATA_DIR, "symbols.json");
 
 const SIZE = 3000;
 const MARGIN = 60;
-const LABEL_PT = 6;
-const SMALL_LABEL_PT = 4;
+// Star names match the legend's 13px text (9.75pt); crowded labels keep the original 2/3 ratio.
+const LABEL_PT = 9.75;
+const SMALL_LABEL_PT = 6.5;
 // Exponent > 1 darkens midtones and mutes the background.
 const GAMMA = 2.5;
 
