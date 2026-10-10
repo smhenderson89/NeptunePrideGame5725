@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
   <title>NP5725 Galaxy Map</title>
   <style>
     html, body { margin: 0; height: 100%; overflow: hidden; background: #000; }
@@ -100,7 +100,18 @@
     viewport.addEventListener("pointercancel", endPointer);
 
     viewport.addEventListener("dblclick", reset);
-    addEventListener("resize", reset);
+    // Mobile browsers fire resize when the address bar shows/hides; only reset on a real width change (rotation).
+    let lastWidth = innerWidth;
+    addEventListener("resize", () => {
+      if (innerWidth === lastWidth) return;
+      lastWidth = innerWidth;
+      reset();
+    });
+
+    // iOS Safari ignores user-scalable=no, so block its native pinch gesture.
+    for (const type of ["gesturestart", "gesturechange", "gestureend"]) {
+      document.addEventListener(type, (e) => e.preventDefault());
+    }
     reset();
   </script>
 </body>
